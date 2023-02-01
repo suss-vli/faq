@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Vocareum
+title: Vocareum
 nav_order: 4
 has_children: true
 permalink: vocareum/

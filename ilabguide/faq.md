@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4. iLabGuide
+title: iLabGuide
 nav_order: 4
 has_children: true
 permalink: ilabguide/

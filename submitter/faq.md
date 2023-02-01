@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Submitter
+title: Submitter
 nav_order: 4
 has_children: true
 permalink: submitter/
