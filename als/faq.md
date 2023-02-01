@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALS
+title: 2. ALS
 nav_order: 4
 has_children: true
 permalink: als/
