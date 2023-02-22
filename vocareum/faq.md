@@ -72,7 +72,7 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
 
 ## 4. How do I download files from Vocareum?
 
-### Downloadinng from VSCode IDE
+### Downloading from VSCode IDE
 
 - Select the file(s) that you wish to download.
 - To select multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue.
@@ -213,17 +213,112 @@ Usually when this happens, it means that the previous Mongodb run was not logged
 Reset your password:
 1. Open a terminal in the virtual desktop. 
 2. run the command: 
-
-    `rm -rfv ~/.local/share/keyrings/Default_keyring.keyring` 
-
+    ```
+    rm -rfv ~/.local/share/keyrings/Default_keyring.keyring
+    ```
 3. Close MongoDb compass application
 4. Re-launch the MongoDB compass application, accept the default and click **Connect**
-
 5.  The prompt to set the password for a new keyring will appear.
-
     ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
-
 6. Enter a new password for the keyring.
 
+---
+
+## 7. How do I copy/paste text from local desktop to virtual desktop?
+
+1. Use Crtl + C keyboard shortcut to copy the text of your choice from your local desktop.
+2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
+
+    ![Open noVNC control panel](images/novnc-control.png)
+
+3. CLick on the **Clipboard** button on the noVNC control panel to open the Clipboard.
+
+    ![Open noVNC clipboard](images/novnc-clipboard.png)
+
+4.	Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
+5.	In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
+
+    ![Paste contents](images/paste-virtual-desktop.png)
+    ![Paste contents](images/paste-virtual-desktop2.png)
+
+6. Click the arrow on the noVNC control panel to hide it.
+
+    ![Close panel](images/close-novnc.png)
+
+---
+
+## 8. How do I copy/paste text from virtual desktop to local desktop?
+
+1. Highlight the text of your choice which you want to copy to the local desktop.
+
+    ![Highlight text](images/highlight-text.png)
+
+2. Click on the arrow on the left to open the noVNC control panel.
+3. CLick on the **Clipboard** button on the noVNC control panel to display the Clipboard.
+
+    ![Open noVNC clipboard](images/display-clipboard.png)
+
+4.	Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
+5.	Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
+
+---
+
+## 9. Virtual desktop connection lost
+
+Scenarios of possible issues:
+
+1. Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop.
+
+      A sample of the error is shown below.
+    ![Connection lost](images/novnc-disconnect.png)
+
+
+2. The noVNC loading is stuck at the connecting loop indefinitely.
+
+
+To resolve the issues:
+
+- CLose the noVNC browser tab.
+- Navigate back to the **Work Workspace** and end the current session by clicking the **End Lab**.
+- Click on **Start Lab** to obtain a new session.
+    ![Start/End Lab](images/voc-start-end.png)
+
+---
+
+## 10. Desktop Screensaver Password
+
+For users who come across the virtual desktop screensaver and need the password to unlock it, the password is `labsuser`.
+
+   ![Screensaver password](images/screensaver.png)
+
+---
+
+## 11. Black box on virtual desktop
+
+If you have selected **“One empty panel”** on the Panel Prompt as shown below, you will get a black box on the desktop.
+
+   ![Black box](images/black-box.png)
+
+To resolve this issue:
+1.	On the virtual desktop, open a terminal.
+2.	Once the terminal appears, enter the following command:
+      ```
+      rm -rf ~/.config/xfce4/
+      ```
+3.	Navigate back to **Work Workspace** and click **End Lab**
+4.	Click **Start Lab** to start the lab again.
+5.	Once the lab starts, remember to choose **“Use default config”**
+
+---
+
+## 12. Timeout for Lab Workspace/Lab taking too long to load
+
+If you encounter any of the error messages below after clicking on **My Work**: 
+
+   ![Timeout on lab](images/timeout-lab1.png)
+   ![Fail to launch tab](images/timeout-lab2.png)
+   ![Fail to launch tab](images/timeout-lab3.png)
+
+Please close the message prompt box by clicking on **Ok** and click on **Start Lab** again. The lab will continue to load after a short while as it is working hard in the background to load the lab.
 
 ---
