@@ -101,3 +101,13 @@ You're free to customize sites that you create with this template, however you l
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 [`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
 [`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+
+
+## If your css is not working on localhost
+
+
+go to `_config.yml` and change the theme from `remote_theme` to `theme`
+
+```
+theme: just-the-docs
+```

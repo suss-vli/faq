@@ -4,17 +4,21 @@ title: Vocareum
 nav_order: 4
 has_children: true
 permalink: vocareum/
-has_toc: true
+# has_toc: true
 ---
-
 # FAQ - Vocareum
+{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
 {:toc}
+</details>
 
+---
 ## Browser requirements and configurations
 
 **Google Chrome**

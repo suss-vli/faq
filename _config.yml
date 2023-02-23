@@ -7,4 +7,5 @@ url: https://suss-vli.github.io/faq/
 aux_links:
   VLI: http://suss-vli.github.io
 
-markdown: kramdown
+# markdown: kramdown
+# heading_anchors: true
