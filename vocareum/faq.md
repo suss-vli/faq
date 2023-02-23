@@ -12,7 +12,7 @@ has_toc: true
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC {:toc}
+1. TOC {:toc}
 
 ### Browser requirements and configurations
 
