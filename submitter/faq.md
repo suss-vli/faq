@@ -6,6 +6,18 @@ has_children: true
 permalink: submitter/
 ---
 # FAQ - Submitter
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 ## If I have 1 hour left to my submission deadline and I do not have any docx, how can I submit?
 
