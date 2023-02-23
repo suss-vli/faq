@@ -4,11 +4,17 @@ title: Vocareum
 nav_order: 4
 has_children: true
 permalink: vocareum/
+has_toc: true
 ---
 
 # FAQ - Vocareum
 
-## Browser requirements and configurations
+## Table of contents
+{: .no_toc .text-delta }
+
+TOC {:toc}
+
+### Browser requirements and configurations
 
 **Google Chrome**
 
@@ -39,7 +45,7 @@ permalink: vocareum/
     
 ---
 
-## Disconnected from Vocareum Labs / Cannot access Vocareum Labs
+### Disconnected from Vocareum Labs / Cannot access Vocareum Labs
 
 For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. 
 
@@ -59,7 +65,7 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
 
 ---
 
-## Submission deadline rules
+### Submission deadline rules
 
 
 **Before deadline**
@@ -71,9 +77,9 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
 
 ---
 
-## How do I download files from Vocareum?
+### How do I download files from Vocareum?
 
-### Downloading from VSCode IDE
+#### Downloading from VSCode IDE
 
 1. Select the file(s) that you wish to download.
 2. To select multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue.
@@ -93,7 +99,7 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
    ![Verify download](images/verify-download.png)
 
 
-### Downloading from JupyterLab IDE
+#### Downloading from JupyterLab IDE
 
 1. Select the file(s) that you wish to download.
 2. To select multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue.
@@ -106,7 +112,7 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
     ![Download Jupyterlab](images/download-file-jupyter.png)
 
 
-### Downloading from Virtual Desktop
+#### Downloading from Virtual Desktop
 
 1.	Navigate to **Work WorkSpace** and click the **Reload** icon <u>once</u> to reload the file tree. This step will reload the contents of the work folder.
 
@@ -128,9 +134,9 @@ If you have concerns about your submission, click [here](#2-submission-deadline-
 
 ---
 
-## How do I upload my project to Vocareum?
+### How do I upload my project to Vocareum?
 
-### Uploading to VSCode IDE
+#### Uploading to VSCode IDE
 
 <u>Method 1</u>
 
@@ -153,7 +159,7 @@ Simply drag and drop your directory into the explorer of IDE on Vocareum. See be
 
    ![Upload complete](images/upload-complete.png)
 
-### Uploading to JupyterLab IDE
+#### Uploading to JupyterLab IDE
 
 1. Navigate into the directory you wish to upload to. 
 2. Click on the **Upload** icon button and select the file to upload. 
@@ -161,7 +167,7 @@ Simply drag and drop your directory into the explorer of IDE on Vocareum. See be
 
      ![Upload file on Jupyter](images/upload-jupyter.gif)
 
-### Uploading to Virtual Desktop
+#### Uploading to Virtual Desktop
 
 1. Navigate to **Work Workspace** and click on **work**.
 
@@ -185,7 +191,7 @@ Simply drag and drop your directory into the explorer of IDE on Vocareum. See be
 
 ---
 
-## Mongodb is disconnected. I am facing an error trying to reconnect Mongodb.
+### Mongodb is disconnected. I am facing an error trying to reconnect Mongodb.
 
 For a quick fix, run the following commands on your terminal.
 ```
@@ -206,7 +212,7 @@ Usually when this happens, it means that the previous Mongodb run was not logged
 
 ---
 
-## I forgot my password for my mongodb-compass keyring, what can I do?
+### I forgot my password for my mongodb-compass keyring, what can I do?
 
 Reset your password:
 1. Open a terminal in the virtual desktop. 
@@ -222,7 +228,7 @@ Reset your password:
 
 ---
 
-## How do I copy/paste text from local desktop to virtual desktop?
+### How do I copy/paste text from local desktop to virtual desktop?
 
 1. Use Crtl + C keyboard shortcut to copy the text of your choice from your local desktop.
 2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
@@ -245,7 +251,7 @@ Reset your password:
 
 ---
 
-## How do I copy/paste text from virtual desktop to local desktop?
+### How do I copy/paste text from virtual desktop to local desktop?
 
 1. Highlight the text of your choice which you want to copy to the local desktop.
 
@@ -261,7 +267,7 @@ Reset your password:
 
 ---
 
-## Virtual desktop connection lost
+### Virtual desktop connection lost
 
 Scenarios of possible issues:
 
@@ -283,7 +289,7 @@ To resolve the issues:
 
 ---
 
-## Desktop Screensaver Password
+### Desktop Screensaver Password
 
 For users who come across the virtual desktop screensaver and need the password to unlock it, the password is `labsuser`.
 
@@ -291,7 +297,7 @@ For users who come across the virtual desktop screensaver and need the password 
 
 ---
 
-## Black box on virtual desktop
+### Black box on virtual desktop
 
 If you have selected **“One empty panel”** on the Panel Prompt as shown below, you will get a black box on the desktop.
 
@@ -309,7 +315,7 @@ To resolve this issue:
 
 ---
 
-## Timeout for Lab Workspace/Lab taking too long to load
+### Timeout for Lab Workspace/Lab taking too long to load
 
 If you encounter any of the error messages below after clicking on **My Work**: 
 
