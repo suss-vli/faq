@@ -47,6 +47,20 @@ permalink: vocareum/
   - You will notice that your entry is now displayed at this section.
     ![Check](images/check-site.png)
   - Restart your Chrome browser and you should be able to access Vocareum Labs now.
+
+  ### Blank screen while accessing Vocareum Labs on Safari browser
+
+  For Safari browser users, you may encounter a blank screen while trying to access Vocareum Labs on Canvas (see image below).
+
+  ![Blank screen](images/blank-screen.png)
+
+  To solve the issue:
+
+  1. Click on **Safari**, then select **Preferences**.
+  2. From the **Preferences** window, click on **Privacy**.
+  3. Beside *Website tracking*, uncheck the box for *Prevent cross-site tracking*.
+     ![Safari settings](images/safari-settings.png)
+  4. Reload the browser and you should be able to access Vocareum Labs on Canvas.
     
 ---
 
