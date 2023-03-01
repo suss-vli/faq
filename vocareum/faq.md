@@ -19,6 +19,7 @@ permalink: vocareum/
 </details>
 
 ---
+
 ## Browser requirements and configurations
 
 **Google Chrome**
