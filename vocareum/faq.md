@@ -8,6 +8,7 @@ permalink: vocareum/
 ---
 # FAQ - Vocareum
 {: .no_toc }
+If your issue cannot be resolved by any of the FAQ, please email <vlisupport@suss.edu.sg> for assistance.
 
 <details open markdown="block">
   <summary>
@@ -37,21 +38,21 @@ permalink: vocareum/
       1. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
       2. An Intel Pentium 4 processor or later that's SSE3 capable 
 3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. 
-  1. Open Chrome browser. 
-  2. On the URL bar, enter  `chrome://settings/cookies` 
-    ![Cookies](images/settings-cookies.png)
-  3. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
-  
-    ![Cookies](images/cookies-add.png)
-  4. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
-    ![Add Vocareum labs](images/add-voc.png)
-  5. Click Add button to add and the prompt box will close.
-    ![Add site](images/add-site.png)
-  6. You will notice that your entry is now displayed at this section.
-    ![Check](images/check-site.png)
-  7. Restart your Chrome browser and you should be able to access Vocareum Labs now.
+    1. Open Chrome browser. 
+    2. On the URL bar, enter  `chrome://settings/cookies` 
+      ![Cookies](images/settings-cookies.png)
+    3. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
 
-  ### Blank screen while accessing Vocareum Labs on Safari browser
+        ![Cookies](images/cookies-add.png)
+    4. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
+      ![Add Vocareum labs](images/add-voc.png)
+    5. Click Add button to add and the prompt box will close.
+      ![Add site](images/add-site.png)
+    6. You will notice that your entry is now displayed at this section.
+      ![Check](images/check-site.png)
+    7. Restart your Chrome browser and you should be able to access Vocareum Labs now.
+
+### Blank screen while accessing Vocareum Labs on Safari browser
 
   For Safari browser users, you may encounter a blank screen while trying to access Vocareum Labs on Canvas (see image below).
 
