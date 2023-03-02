@@ -26,14 +26,16 @@ permalink: vocareum/
 
 1. Update the web browser to the latest version. 
 2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):  
-  - Windows 
-    - Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
-    - An Intel Pentium 4 processor or later that’s SSE3 capable 
-  - MAC OS 
-    - macOS High Sierra 10.13 later 
-  - Linux OS 
-    - 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
-    - An Intel Pentium 4 processor or later that's SSE3 capable 
+    - Windows 
+      1. Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
+      2. An Intel Pentium 4 processor or later that’s SSE3 capable 
+    
+    - MAC OS 
+      1. macOS High Sierra 10.13 later 
+    
+    - Linux OS 
+      1. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
+      2. An Intel Pentium 4 processor or later that's SSE3 capable 
 3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. 
   1. Open Chrome browser. 
   2. On the URL bar, enter  `chrome://settings/cookies` 
