@@ -24,8 +24,8 @@ permalink: vocareum/
 
 **Google Chrome**
 
-- Update the web browser to the latest version. 
-- System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):  
+1. Update the web browser to the latest version. 
+2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):  
   - Windows 
     - Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
     - An Intel Pentium 4 processor or later that’s SSE3 capable 
@@ -34,20 +34,20 @@ permalink: vocareum/
   - Linux OS 
     - 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
     - An Intel Pentium 4 processor or later that's SSE3 capable 
-- Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. 
-  - Open Chrome browser. 
-  - On the URL bar, enter  `chrome://settings/cookies` 
+3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. 
+  1. Open Chrome browser. 
+  2. On the URL bar, enter  `chrome://settings/cookies` 
     ![Cookies](images/settings-cookies.png)
-  - Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
+  3. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
   
     ![Cookies](images/cookies-add.png)
-  - In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
+  4. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
     ![Add Vocareum labs](images/add-voc.png)
-  - Click Add button to add and the prompt box will close.
+  5. Click Add button to add and the prompt box will close.
     ![Add site](images/add-site.png)
-  - You will notice that your entry is now displayed at this section.
+  6. You will notice that your entry is now displayed at this section.
     ![Check](images/check-site.png)
-  - Restart your Chrome browser and you should be able to access Vocareum Labs now.
+  7. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
   ### Blank screen while accessing Vocareum Labs on Safari browser
 
