@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Submitter
+title: Packager
 nav_order: 4
 has_children: true
-permalink: submitter/
+permalink: packager/
 ---
-# FAQ - Submitter
+# FAQ - Packager
 
 ## 1. If I have 1 hour left to my submission deadline and I do not have any docx, how can I submit?
 
@@ -40,14 +40,17 @@ pip3 install -r requirements.txt
 
 ---
 
-## 5. My TMA/ECA project is on my laptop. How do I submit it on Vocareum using the submitter?
+## 5. My TMA/ECA project is on my laptop. How do I submit it on Vocareum using the packager?
 
 Note: All TMA/ECA projects should be done on Vocareum. If you are working on your local machine, it is your responsibility to make it compatible to Vocareum. See <insert link to state that all work should be done on vocareum>
 
 To submit on Vocareum:
-1. [Upload your project to Vocareum](#3-how-do-i-upload-my-project-to-vocareum)
-2. From the submitter, select the project directory to submit.
-3. Click on the "Submit" button from Vocareum Lab's workspace.
+1. [Upload your project to Vocareum](../vocareum/faq.md#3-how-do-i-upload-my-project-to-vocareum)
+2. Zip your project directory.
+3. From the packager, select the zipped project folder to package.
+4. [Download the docx](../vocareum/faq.md#4-how-do-i-download-files-from-vocareum) from the folder "TO_BE_DOWNLOAD_AFTER_PACKAGING" for submission on Canvas.
+5. Click on the **Submit** button from Vocareum Lab's workspace.
+    ![Submit](images/submit-button.png)
 
 ---
   
@@ -58,7 +61,7 @@ We only accept **gifs** for recording. You need to zip up the recordings using t
   
 ---
   
-## 7. The submitter is rejecting my submission because of the virtual environment. What can I do? 
+## 7. The packager is rejecting my submission because of the virtual environment. What can I do? 
 
 You have two options. Option one is to delete all virtual environments. Another options is to name your virtual environment as **venv**. 
 
@@ -73,9 +76,9 @@ Then, zip up your submission and try submitting again.
   
 ---
 
-## 8. The submitter is rejecting my submission because of my recordings. What can I do? 
+## 8. The packager is rejecting my submission because of my recordings. What can I do? 
   
-The submitter only allow gifs as the recording. If you are using mp4, please save your recording as gif and resubmit them.
+The packager only allow gifs as the recording. If you are using mp4, please save your recording as gif and resubmit them.
 
 If you have multiple recordings, please zip up using the vocareum utility. 
   
