@@ -21,6 +21,9 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ---
 
+{: .important }
+This is an important paragraph
+
 ## Browser requirements and configurations
 
 **Google Chrome**
@@ -69,6 +72,10 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 ---
 
 ## Disconnected from Vocareum Labs / Cannot access Vocareum Labs
+{: .important }
+This is an important paragraph
+
+## 1. Disconnected from Vocareum Labs / Cannot access Vocareum Labs
 
 For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. 
 
