@@ -108,6 +108,30 @@ You're free to customize sites that you create with this template, however you l
 
 go to `_config.yml` and change the theme from `remote_theme` to `theme`
 
+
+## Use callout in your faq 
+
+See 291c188 and 3f8d1cd
+
+You need the callout tag
+
+```
+callouts:
+   important:
+     title: Important
+     color: blue
+
+```
+
+and config it at the _config.yml like this 
+
+```
+{: .important }
+ This is an important paragraph
+
+```
+
+
 ```
 theme: just-the-docs
 ```
