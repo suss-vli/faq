@@ -9,3 +9,8 @@ aux_links:
 
 # markdown: kramdown
 # heading_anchors: true
+
+callouts:
+  important:
+    title: Important
+    color: blue
