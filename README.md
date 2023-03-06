@@ -111,7 +111,9 @@ go to `_config.yml` and change the theme from `remote_theme` to `theme`
 
 ## Use callout in your faq 
 
-See @291c188d302cdc132530bcf027682469e2acc471 and @3f8d1cdde7441a3865a23aeb1488301d88faa772 
+See https://github.com/suss-vli/faq/commit/3f8d1cdde7441a3865a23aeb1488301d88faa772 and https://github.com/suss-vli/faq/commit/291c188d302cdc132530bcf027682469e2acc471 
+
+> Annoyed that the sha did not convert as proposed here https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
 
 You need the callout tag
 
