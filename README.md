@@ -111,7 +111,7 @@ go to `_config.yml` and change the theme from `remote_theme` to `theme`
 
 ## Use callout in your faq 
 
-See 291c188 and 3f8d1cd
+See 291c188d302cdc132530bcf027682469e2acc471 and 3f8d1cdde7441a3865a23aeb1488301d88faa772 
 
 You need the callout tag
 
