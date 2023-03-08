@@ -26,38 +26,35 @@ This is an important paragraph
 
 ## Browser requirements and configurations
 
-**Google Chrome**
+  **Google Chrome**
+  
+  1. Update the web browser to the latest version. 
+  2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):
+     a. Windows 
+        i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
+        ii. An Intel Pentium 4 processor or later that’s SSE3 capable
+     b. MAC OS 
+        i. macOS High Sierra 10.13 later
+     c. Linux OS 
+        i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
+        ii. An Intel Pentium 4 processor or later that's SSE3 capable
+  3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`.
+      a. Open Chrome browser. 
+      b. On the URL bar, enter  `chrome://settings/cookies` 
+         ![Cookies](images/settings-cookies.png)
+      c. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
+         ![Cookies](images/cookies-add.png)
+      d. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
+         ![Add Vocareum labs](images/add-voc.png)
+      e. Click Add button to add and the prompt box will close.
+         ![Add site](images/add-site.png)
+      f. You will notice that your entry is now displayed at this section.
+         ![Check](images/check-site.png)
+      g. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
-1. Update the web browser to the latest version. 
-2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):  
-    i. Windows 
-      1. Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
-      2. An Intel Pentium 4 processor or later that’s SSE3 capable 
-    
-    ii. MAC OS 
-      1. macOS High Sierra 10.13 later 
-    
-    iii. Linux OS 
-      1. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
-      2. An Intel Pentium 4 processor or later that's SSE3 capable 
-3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. 
-    1. Open Chrome browser. 
-    2. On the URL bar, enter  `chrome://settings/cookies` 
-      ![Cookies](images/settings-cookies.png)
-    3. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
+## Blank screen on Safari browser while accessing Vocareum Labs
 
-        ![Cookies](images/cookies-add.png)
-    4. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
-      ![Add Vocareum labs](images/add-voc.png)
-    5. Click Add button to add and the prompt box will close.
-      ![Add site](images/add-site.png)
-    6. You will notice that your entry is now displayed at this section.
-      ![Check](images/check-site.png)
-    7. Restart your Chrome browser and you should be able to access Vocareum Labs now.
-
-### Blank screen while accessing Vocareum Labs on Safari browser
-
-  For Safari browser users, you may encounter a blank screen while trying to access Vocareum Labs on Canvas (see image below).
+  Students who are using Safari browser on their MAC may encounter this issue where a blank screen will appear after clicking on Vocareum Labs on Canvas (see image below).
 
   ![Blank screen](images/blank-screen.png)
 
@@ -65,49 +62,141 @@ This is an important paragraph
 
   1. Click on **Safari**, then select **Preferences**.
   2. From the **Preferences** window, click on **Privacy**.
-  3. Beside *Website tracking*, uncheck the box for *Prevent cross-site tracking*.
+  3. Under Website tracking setting, uncheck the option *Prevent cross-site tracking*
      ![Safari settings](images/safari-settings.png)
-  4. Reload the browser and you should be able to access Vocareum Labs on Canvas.
-    
----
+  4. Close the prompt box.
+  5. Refresh the Safari browser page.
+
+## Desktop Screensaver Password
+
+  For users who come across the virtual desktop screensaver and need the password to unlock it, the password is `labsuser`.
+
+  ![Screensaver password](images/screensaver.png)
+
+
+## Black Box appearing on Virtual Desktop
+
+  If you have selected **One empty panel** on the Panel Prompt as shown below, you will get a black box on the desktop.
+  ![One_empty_panel](images/empty_panel.png)
+  ![Black_box](images/black-box.png)
+  
+  To resolve this issue:
+  
+  1. Right-click on an empty space on the desktop and click 'Open Terminal Here' from the menu.
+  2. Once the terminal appears, enter the following command:
+      ```
+      rm -rf ~/.config/xfce4/
+      ```
+  3. Navigate back to **Work Workspace** and click **End Lab**
+  4. Click **Start Lab** to start the lab again.
+  5. Once the lab starts, remember to choose **Use default config**
+
+
+## Virtual desktop connection lost
+
+  Possible scenarios:
+  1. Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop.
+     A sample of the error is shown below.
+     ![Connection lost](images/novnc-disconnect.png)
+
+  2. The noVNC loading is stuck at the connecting loop indefinitely.
+
+  To resolve these issues:
+  
+  a. CLose the noVNC browser tab.
+  b. Navigate back to the **Work Workspace** and end the current session by clicking the **End Lab**.
+  c. Click on **Start Lab** to obtain a new session.
+     ![Start/End Lab](images/voc-start-end.png)
+
 
 ## Disconnected from Vocareum Labs / Cannot access Vocareum Labs
-{: .important }
-This is an important paragraph
 
-## 1. Disconnected from Vocareum Labs / Cannot access Vocareum Labs
-
-For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. 
-
-You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below). 
-
-![Session Time](images/voc-session-time.png)
-
-You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons. 
+  For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
+  ![Session Time](images/voc-session-time.png)
+  
+  You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
+  If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
+  ![Start/End Lab](images/voc-canvas.png)
 
 
-If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
+## Failed to launch Lab
 
-![Start/End Lab](images/voc-canvas.png)
+  If one of the following error message appears after clicking **My Work**, please close the message and click **Start Lab** again. The lab session will be able to start as soon as it has completed loading.
 
-
-If you have concerns about your submission, click [here](#2-submission-deadline-rules) for more info.
-
----
-
-## Submission deadline rules
+   ![Timeout on lab](images/timeout-lab1.png)
+   ![Fail to launch tab](images/timeout-lab2.png)
+   ![Fail to launch tab](images/timeout-lab3.png)
 
 
-**Before deadline**
-- Students are able to submit multiple times before the assignment deadline. 
+## Unable to login to MongoDB Compass due to incorrect keyring
 
-**After deadline**
-- Once the deadline is over, those who have at least 1 submission before deadline cannot submit again. 
-- Those who have no submission before the deadline will only have 1 chance of submitting their assignment.
+  To reset your password:
+  1. Open a terminal in the virtual desktop.
+  2. Run the command:
+     ```
+     rm -rfv ~/.local/share/keyrings/Default_keyring.keyring
+     ```
+  3. Close the MongoDB compass application.
+  4. Re-launch the MongoDB compass application. Accept the default and click **Connect**
+  5. The prompt to set the password for a new keyring will appear.
+     ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
+  6. Enter a new password for the keyring.
 
----
 
-## How do I download files from Vocareum?
+## Mongodb is disconnected. I am facing an error trying to reconnect Mongodb.
+
+  For a quick fix, run the following commands on your terminal.
+  ```
+  cd /home/labsuser/dbfiles
+  rm -rfv WiredTiger.lock mongod.lock
+  sudo mongod --dbpath /home/labsuser/dbfiles --repair
+  ```
+  Once you run the above commands, proceed to restart your lab by pressing “End Lab” on the top right corner of your workspace and press “Start Lab” to start it again.
+  ![Start/End Lab](images/voc-start-end.png)
+
+<details>
+  <summary>Click for explanation.</summary>  
+  Usually when this happens, it means that the previous Mongodb run was not logged off properly and the lock file was not removed. The commands above try to remove the lock file.
+</details>
+
+
+## Copy/paste text from Local Desktop to Virtual Desktop
+
+  1. Use Crtl + C keyboard shortcut to copy the text from your local desktop.
+  2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
+     ![Open noVNC control panel](images/novnc-control.png)
+  3. CLick on the **Clipboard** button on the noVNC control panel to open the Clipboard.
+     ![Open noVNC clipboard](images/novnc-clipboard.png)
+  4. Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
+  5. In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
+     ![Paste contents](images/paste-virtual-desktop.png)
+     ![Paste contents](images/paste-virtual-desktop2.png)
+  6. Click the arrow on the noVNC control panel to hide it.
+     ![Close panel](images/close-novnc.png)
+
+
+## Copy/paste text from Virtual Desktop to Local Desktop
+
+  1. Highlight the text you want to copy to the local desktop.
+     ![Highlight text](images/highlight-text.png)
+  2. Click on the arrow on the left to open the noVNC control panel.
+  3. CLick on the **Clipboard** button on the noVNC control panel to display the Clipboard.
+     ![Open noVNC clipboard](images/display-clipboard.png)
+  4. Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
+  5. Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
+
+
+## Copy/Paste text from Local Desktop to Cloud IDE/JupyerLab
+
+  1. Use the Ctrl+C keyboard shortcut to copy the text from your Local Desktop.
+  2. Use the Ctrl+V keyboard shortcut to paste the text to the Cloud IDE/JupyterLab.
+
+
+## Copy/Paste text from Cloud IDE/JupyerLab to Local Desktop
+
+  1. Use the Ctrl+C keyboard shortcut to copy the text from the Cloud IDE/JupyterLab.
+  2. Use the Ctrl+V keyboard shortcut to paste the text to your Local Desktop.
+
 
 ### Downloading from VSCode IDE
 
@@ -218,141 +307,5 @@ Simply drag and drop your directory into the explorer of IDE on Vocareum. See be
 5. Verify that your files have successfully uploaded from the file tree or in your Virtual Desktop.
 
     ![Verify upload](images/verify-upload.png)
-
----
-
-## Mongodb is disconnected. I am facing an error trying to reconnect Mongodb.
-
-For a quick fix, run the following commands on your terminal.
-```
-cd /home/labsuser/dbfiles
-rm -rfv WiredTiger.lock mongod.lock
-sudo mongod --dbpath /home/labsuser/dbfiles --repair
-```
-
-Once you run the above commands, proceed to restart your lab by pressing “End Lab” on the top right corner of your workspace and press “Start Lab” to start it again.
-
-![Start/End Lab](images/voc-start-end.png)
-
-<details>
-  <summary>Click for explanation.</summary>  
-Usually when this happens, it means that the previous Mongodb run was not logged off properly and the lock file was not removed. The commands above try to remove hte lock file.
-
-</details>
-
----
-
-## I forgot my password for my mongodb-compass keyring, what can I do?
-
-Reset your password:
-1. Open a terminal in the virtual desktop. 
-2. run the command: 
-    ```
-    rm -rfv ~/.local/share/keyrings/Default_keyring.keyring
-    ```
-3. Close MongoDb compass application
-4. Re-launch the MongoDB compass application, accept the default and click **Connect**
-5.  The prompt to set the password for a new keyring will appear.
-    ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
-6. Enter a new password for the keyring.
-
----
-
-## How do I copy/paste text from local desktop to virtual desktop?
-
-1. Use Crtl + C keyboard shortcut to copy the text of your choice from your local desktop.
-2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
-
-    ![Open noVNC control panel](images/novnc-control.png)
-
-3. CLick on the **Clipboard** button on the noVNC control panel to open the Clipboard.
-
-    ![Open noVNC clipboard](images/novnc-clipboard.png)
-
-4.	Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
-5.	In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
-
-    ![Paste contents](images/paste-virtual-desktop.png)
-    ![Paste contents](images/paste-virtual-desktop2.png)
-
-6. Click the arrow on the noVNC control panel to hide it.
-
-    ![Close panel](images/close-novnc.png)
-
----
-
-## How do I copy/paste text from virtual desktop to local desktop?
-
-1. Highlight the text of your choice which you want to copy to the local desktop.
-
-    ![Highlight text](images/highlight-text.png)
-
-2. Click on the arrow on the left to open the noVNC control panel.
-3. CLick on the **Clipboard** button on the noVNC control panel to display the Clipboard.
-
-    ![Open noVNC clipboard](images/display-clipboard.png)
-
-4.	Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
-5.	Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
-
----
-
-## Virtual desktop connection lost
-
-Scenarios of possible issues:
-
-1. Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop.
-
-      A sample of the error is shown below.
-    ![Connection lost](images/novnc-disconnect.png)
-
-
-2. The noVNC loading is stuck at the connecting loop indefinitely.
-
-
-To resolve the issues:
-
-- CLose the noVNC browser tab.
-- Navigate back to the **Work Workspace** and end the current session by clicking the **End Lab**.
-- Click on **Start Lab** to obtain a new session.
-    ![Start/End Lab](images/voc-start-end.png)
-
----
-
-## Desktop Screensaver Password
-
-For users who come across the virtual desktop screensaver and need the password to unlock it, the password is `labsuser`.
-
-   ![Screensaver password](images/screensaver.png)
-
----
-
-## Black box on virtual desktop
-
-If you have selected **“One empty panel”** on the Panel Prompt as shown below, you will get a black box on the desktop.
-
-   ![Black box](images/black-box.png)
-
-To resolve this issue:
-1.	On the virtual desktop, open a terminal.
-2.	Once the terminal appears, enter the following command:
-      ```
-      rm -rf ~/.config/xfce4/
-      ```
-3.	Navigate back to **Work Workspace** and click **End Lab**
-4.	Click **Start Lab** to start the lab again.
-5.	Once the lab starts, remember to choose **“Use default config”**
-
----
-
-## Timeout for Lab Workspace/Lab taking too long to load
-
-If you encounter any of the error messages below after clicking on **My Work**: 
-
-   ![Timeout on lab](images/timeout-lab1.png)
-   ![Fail to launch tab](images/timeout-lab2.png)
-   ![Fail to launch tab](images/timeout-lab3.png)
-
-Please close the message prompt box by clicking on **Ok** and click on **Start Lab** again. The lab will continue to load after a short while as it is working hard in the background to load the lab.
 
 ---
