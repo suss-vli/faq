@@ -70,7 +70,9 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   To solve the issue:
 
   1. Click on **Safari**, then select **Preferences**.
+  
      ![Preferences](images/preferences.png)
+     
   3. From the **Preferences** window, click on **Privacy**.
   4. Under Website tracking setting, uncheck the **Prevent cross-site tracking** option.
      ![Safari settings](images/safari-settings.png)
