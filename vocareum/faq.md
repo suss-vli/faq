@@ -125,7 +125,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
   c. Click on **Start Lab** to obtain a new session.<br>
   
-     <kbd>![Start/End Lab](images/voc-start-end.png)</kbd>
+     ![Start/End Lab](images/voc-start-end.png)
 
 ---
 
@@ -133,13 +133,13 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
   
-  <kbd>![Session Time](images/voc-session-time.png)</kbd>
+  ![Session Time](images/voc-session-time.png)
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
 
   If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
 
-  <kbd>![Start/End Lab](images/voc-canvas.png)</kbd>
+  ![Start/End Lab](images/voc-canvas.png)
 
 ---
 
@@ -151,6 +151,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
    ![Fail to launch tab](images/timeout-lab2.png)
    ![Fail to launch tab](images/timeout-lab3.png)
 
+---
 
 ## Unable to login to MongoDB Compass due to incorrect keyring
 
@@ -163,11 +164,12 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   3. Close the MongoDB compass application.
   4. Re-launch the MongoDB compass application. Accept the default and click **Connect**
   5. The prompt to set the password for a new keyring will appear.
+  
      ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
   6. Enter a new password for the keyring.
 
 
-## Mongodb is disconnected. I am facing an error trying to reconnect Mongodb.
+## MongoDB is disconnected. I am facing an error trying to reconnect MongoDB.
 
   For a quick fix, run the following commands on your terminal.
   ```
@@ -188,8 +190,10 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   1. Use Crtl + C keyboard shortcut to copy the text from your local desktop.
   2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
+  
      ![Open noVNC control panel](images/novnc-control.png)
   3. Click on the **Clipboard** button on the noVNC control panel to open the Clipboard.
+  
      ![Open noVNC clipboard](images/novnc-clipboard.png)
   4. Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
   5. In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
@@ -197,15 +201,18 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
      ![Paste contents](images/paste-virtual-desktop.png)
      ![Paste contents](images/paste-virtual-desktop2.png)
   6. Click the arrow on the noVNC control panel to hide it.
+  
      ![Close panel](images/close-novnc.png)
 
 
 ## Copy/Paste text from Virtual Desktop to Local Desktop
 
   1. Highlight the text you want to copy to the local desktop.
+  
      ![Highlight text](images/highlight-text.png)
   2. Click on the arrow on the left to open the noVNC control panel.
   3. Click on the **Clipboard** button on the noVNC control panel to display the Clipboard.
+  
      ![Open noVNC clipboard](images/display-clipboard.png)
   4. Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
   5. Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
