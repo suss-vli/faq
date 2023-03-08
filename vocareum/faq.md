@@ -75,6 +75,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
      
   3. From the **Preferences** window, click on **Privacy**.
   4. Under Website tracking setting, uncheck the **Prevent cross-site tracking** option.
+  
      ![Safari settings](images/safari-settings.png)
   4. Close the prompt box.
   5. Refresh the Safari browser page.
@@ -92,6 +93,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 ## Black Box appearing on Virtual Desktop
 
   If you have selected **One empty panel** on the Panel Prompt as shown below, you will get a black box on the desktop.
+  
   ![Black_box](images/black-box.png)
   
   To resolve this issue:
@@ -112,6 +114,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   Possible scenarios:
   1. Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop.
      A sample of the error is shown below.
+     
      ![Connection lost](images/novnc-disconnect.png)
 
   2. The noVNC loading is stuck at the connecting loop indefinitely.
@@ -121,13 +124,15 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   a. Close the noVNC browser tab.<br>
   b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
   c. Click on **Start Lab** to obtain a new session.<br>
-     <kbd>![Start/End Lab](images/StartEnd.png)</kbd>
+  
+     <kbd>![Start/End Lab](images/voc-start-end.png)</kbd>
 
 ---
 
 ## Disconnected from Vocareum Labs / Cannot access Vocareum Labs
 
   For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
+  
   <kbd>![Session Time](images/voc-session-time.png)</kbd>
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
