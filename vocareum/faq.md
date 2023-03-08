@@ -125,7 +125,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
   c. Click on **Start Lab** to obtain a new session.<br>
   
-     ![Start/End Lab](images/voc-start-end.png)
+  ![Start/End Lab](images/voc-start-end.png)
 
 ---
 
@@ -133,7 +133,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
   
-  ![Session Time](images/voc-session-time.png)
+  ![Session Time](images/timelimit.png)
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
 
