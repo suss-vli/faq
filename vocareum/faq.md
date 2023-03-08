@@ -293,7 +293,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ---
 
-## How do I upload my project to Vocareum?
+## How do I upload my work to Vocareum?
 
 ### Uploading to VSCode IDE
 
