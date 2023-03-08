@@ -21,9 +21,6 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ---
 
-{: .important }
-This is an important paragraph
-
 ## Browser requirements and configurations
 
   **Google Chrome**
@@ -31,13 +28,13 @@ This is an important paragraph
   1. Update the web browser to the latest version. 
   2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information): <br>
      a. Windows <br>
-        &ensp;i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later <br>
-        &ensp;ii. An Intel Pentium 4 processor or later that’s SSE3 capable <br>
+        &emsp;i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later <br>
+        &emsp;ii. An Intel Pentium 4 processor or later that’s SSE3 capable <br>
      b. MAC OS <br>
-        &ensp;i. macOS High Sierra 10.13 later <br>
+        &emsp;i. macOS High Sierra 10.13 later <br>
      c. Linux OS <br>
-        &ensp;i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ <br>
-        &ensp;ii. An Intel Pentium 4 processor or later that's SSE3 capable <br>
+        &emsp;i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ <br>
+        &emsp;ii. An Intel Pentium 4 processor or later that's SSE3 capable <br>
   3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. <br>
       a. Open Chrome browser. <br>
       b. On the URL bar, enter  `chrome://settings/cookies`
@@ -62,20 +59,25 @@ This is an important paragraph
          
       g. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
+---
+
 ## Blank screen on Safari browser while accessing Vocareum Labs
 
   Students who are using Safari browser on their MAC may encounter this issue where a blank screen will appear after clicking on Vocareum Labs on Canvas (see image below).
 
-  ![Blank screen](images/blank-screen.png)
+  ![Blank screen](images/blank-screen2.png)
 
   To solve the issue:
 
   1. Click on **Safari**, then select **Preferences**.
-  2. From the **Preferences** window, click on **Privacy**.
-  3. Under Website tracking setting, uncheck the option *Prevent cross-site tracking*
+     ![Preferences](images/preferences.png)
+  3. From the **Preferences** window, click on **Privacy**.
+  4. Under Website tracking setting, uncheck the **Prevent cross-site tracking** option.
      ![Safari settings](images/safari-settings.png)
   4. Close the prompt box.
   5. Refresh the Safari browser page.
+
+---
 
 ## Desktop Screensaver Password
 
@@ -83,17 +85,16 @@ This is an important paragraph
 
   ![Screensaver password](images/screensaver.png)
 
+---
 
 ## Black Box appearing on Virtual Desktop
 
   If you have selected **One empty panel** on the Panel Prompt as shown below, you will get a black box on the desktop.
-
-  ![One_empty_panel](images/empty_panel.png)
   ![Black_box](images/black-box.png)
   
   To resolve this issue:
   
-  1. Right-click on an empty space on the desktop and click 'Open Terminal Here' from the menu.
+  1. Right-click on an empty space on the desktop and click **Open Terminal Here** from the menu.
   2. Once the terminal appears, enter the following command:
       ```
       rm -rf ~/.config/xfce4/
@@ -102,6 +103,7 @@ This is an important paragraph
   4. Click **Start Lab** to start the lab again.
   5. Once the lab starts, remember to choose **Use default config**
 
+---
 
 ## Virtual desktop connection lost
 
@@ -114,23 +116,25 @@ This is an important paragraph
 
   To resolve these issues:
   
-  a. Close the noVNC browser tab.
-  b. Navigate back to the **Work Workspace** and end the current session by clicking the **End Lab**.
-  c. Click on **Start Lab** to obtain a new session.
-     ![Start/End Lab](images/voc-start-end.png)
+  a. Close the noVNC browser tab.<br>
+  b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
+  c. Click on **Start Lab** to obtain a new session.<br>
+     <kbd>![Start/End Lab](images/StartEnd.png)</kbd>
 
+---
 
 ## Disconnected from Vocareum Labs / Cannot access Vocareum Labs
 
   For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
-  ![Session Time](images/voc-session-time.png)
+  <kbd>![Session Time](images/voc-session-time.png)</kbd>
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
 
   If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
 
-  ![Start/End Lab](images/voc-canvas.png)
+  <kbd>![Start/End Lab](images/voc-canvas.png)</kbd>
 
+---
 
 ## Failed to launch Lab
 
