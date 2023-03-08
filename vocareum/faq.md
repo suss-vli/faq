@@ -40,16 +40,26 @@ This is an important paragraph
         ii. An Intel Pentium 4 processor or later that's SSE3 capable
   3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`.
       a. Open Chrome browser. 
-      b. On the URL bar, enter  `chrome://settings/cookies` 
-         ![Cookies](images/settings-cookies.png)
+      b. On the URL bar, enter  `chrome://settings/cookies`
+
+      ![Cookies](images/settings-cookies.png)
+
       c. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
-         ![Cookies](images/cookies-add.png)
+
+      ![Cookies](images/cookies-add.png)
+
       d. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
-         ![Add Vocareum labs](images/add-voc.png)
+
+      ![Add Vocareum labs](images/add-voc.png)
+
       e. Click Add button to add and the prompt box will close.
-         ![Add site](images/add-site.png)
+
+      ![Add site](images/add-site.png)
+
       f. You will notice that your entry is now displayed at this section.
-         ![Check](images/check-site.png)
+
+      ![Check](images/check-site.png)
+         
       g. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
 ## Blank screen on Safari browser while accessing Vocareum Labs
@@ -77,6 +87,7 @@ This is an important paragraph
 ## Black Box appearing on Virtual Desktop
 
   If you have selected **One empty panel** on the Panel Prompt as shown below, you will get a black box on the desktop.
+
   ![One_empty_panel](images/empty_panel.png)
   ![Black_box](images/black-box.png)
   
@@ -103,7 +114,7 @@ This is an important paragraph
 
   To resolve these issues:
   
-  a. CLose the noVNC browser tab.
+  a. Close the noVNC browser tab.
   b. Navigate back to the **Work Workspace** and end the current session by clicking the **End Lab**.
   c. Click on **Start Lab** to obtain a new session.
      ![Start/End Lab](images/voc-start-end.png)
@@ -115,7 +126,9 @@ This is an important paragraph
   ![Session Time](images/voc-session-time.png)
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
+
   If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
+
   ![Start/End Lab](images/voc-canvas.png)
 
 
@@ -160,27 +173,28 @@ This is an important paragraph
 </details>
 
 
-## Copy/paste text from Local Desktop to Virtual Desktop
+## Copy/Paste text from Local Desktop to Virtual Desktop
 
   1. Use Crtl + C keyboard shortcut to copy the text from your local desktop.
   2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
      ![Open noVNC control panel](images/novnc-control.png)
-  3. CLick on the **Clipboard** button on the noVNC control panel to open the Clipboard.
+  3. Click on the **Clipboard** button on the noVNC control panel to open the Clipboard.
      ![Open noVNC clipboard](images/novnc-clipboard.png)
   4. Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
   5. In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
+
      ![Paste contents](images/paste-virtual-desktop.png)
      ![Paste contents](images/paste-virtual-desktop2.png)
   6. Click the arrow on the noVNC control panel to hide it.
      ![Close panel](images/close-novnc.png)
 
 
-## Copy/paste text from Virtual Desktop to Local Desktop
+## Copy/Paste text from Virtual Desktop to Local Desktop
 
   1. Highlight the text you want to copy to the local desktop.
      ![Highlight text](images/highlight-text.png)
   2. Click on the arrow on the left to open the noVNC control panel.
-  3. CLick on the **Clipboard** button on the noVNC control panel to display the Clipboard.
+  3. Click on the **Clipboard** button on the noVNC control panel to display the Clipboard.
      ![Open noVNC clipboard](images/display-clipboard.png)
   4. Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
   5. Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
@@ -197,6 +211,8 @@ This is an important paragraph
   1. Use the Ctrl+C keyboard shortcut to copy the text from the Cloud IDE/JupyterLab.
   2. Use the Ctrl+V keyboard shortcut to paste the text to your Local Desktop.
 
+
+## How do I download files from Vocareum to my Local Desktop?
 
 ### Downloading from VSCode IDE
 
@@ -241,7 +257,7 @@ This is an important paragraph
 
     ![Select file on file tree](images/file-tree-select.png)
 
-**NOTE**: If you have multiple files/folders to download, you must do it one by one. The recommended way would be to zip up the files/folders into 1 zip file and you download the single zip file.
+{: .important } If you have multiple files/folders to download, you must do it one by one. The recommended way would be to zip up the files/folders into 1 zip file and you download the single zip file.
 
 3. Click on the **Download** icon button.
 
