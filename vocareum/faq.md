@@ -168,6 +168,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
      ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
   6. Enter a new password for the keyring.
 
+---
 
 ## MongoDB is disconnected. I am facing an error trying to reconnect MongoDB.
 
@@ -185,6 +186,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   Usually when this happens, it means that the previous Mongodb run was not logged off properly and the lock file was not removed. The commands above try to remove the lock file.
 </details>
 
+---
 
 ## Copy/Paste text from Local Desktop to Virtual Desktop
 
@@ -204,6 +206,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   
      ![Close panel](images/close-novnc.png)
 
+---
 
 ## Copy/Paste text from Virtual Desktop to Local Desktop
 
@@ -217,12 +220,14 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   4. Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
   5. Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
 
+---
 
 ## Copy/Paste text from Local Desktop to Cloud IDE/JupyerLab
 
   1. Use the Ctrl+C keyboard shortcut to copy the text from your Local Desktop.
   2. Use the Ctrl+V keyboard shortcut to paste the text to the Cloud IDE/JupyterLab.
 
+---
 
 ## Copy/Paste text from Cloud IDE/JupyerLab to Local Desktop
 
