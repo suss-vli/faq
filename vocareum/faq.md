@@ -29,17 +29,17 @@ This is an important paragraph
   **Google Chrome**
   
   1. Update the web browser to the latest version. 
-  2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information):
+  2. System Requirements (Please refer [here](https://support.google.com/chrome/a/answer/7100626) for the latest information): <br>
      a. Windows <br>
-        i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later 
-        ii. An Intel Pentium 4 processor or later that’s SSE3 capable
+        i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later <br>
+        ii. An Intel Pentium 4 processor or later that’s SSE3 capable <br>
      b. MAC OS <br>
-        i. macOS High Sierra 10.13 later
+        i. macOS High Sierra 10.13 later <br>
      c. Linux OS <br>
-        i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ 
-        ii. An Intel Pentium 4 processor or later that's SSE3 capable
-  3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`.
-      a. Open Chrome browser. 
+        i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ <br>
+        ii. An Intel Pentium 4 processor or later that's SSE3 capable <br>
+  3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. <br>
+      a. Open Chrome browser. <br>
       b. On the URL bar, enter  `chrome://settings/cookies`
 
       ![Cookies](images/settings-cookies.png)
