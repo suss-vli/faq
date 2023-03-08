@@ -139,7 +139,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
 
-  ![Start/End Lab](images/voc-canvas.png)
+  ![Start/End Lab](images/canvas.png)
 
 ---
 
