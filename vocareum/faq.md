@@ -179,6 +179,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   sudo mongod --dbpath /home/labsuser/dbfiles --repair
   ```
   Once you run the above commands, proceed to restart your lab by pressing “End Lab” on the top right corner of your workspace and press “Start Lab” to start it again.
+  
   ![Start/End Lab](images/start-end.png)
 
 <details>
@@ -201,7 +202,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   5. In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
 
      ![Paste contents](images/paste-virtual-desktop.png)
-     ![Paste contents](images/paste-virtual-desktop2.png)
+     
   6. Click the arrow on the noVNC control panel to hide it.
   
      ![Close panel](images/close-novnc.png)
