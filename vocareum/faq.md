@@ -125,7 +125,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
   c. Click on **Start Lab** to obtain a new session.<br>
   
-  ![Start/End Lab](images/voc-start-end.png)
+  ![Start/End Lab](images/start-end.png)
 
 ---
 
@@ -179,7 +179,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   sudo mongod --dbpath /home/labsuser/dbfiles --repair
   ```
   Once you run the above commands, proceed to restart your lab by pressing “End Lab” on the top right corner of your workspace and press “Start Lab” to start it again.
-  ![Start/End Lab](images/voc-start-end.png)
+  ![Start/End Lab](images/start-end.png)
 
 <details>
   <summary>Click for explanation.</summary>  
