@@ -27,9 +27,13 @@ Perform the following to revert to the original checkpoint:
 2. Click on that particular VM
 3. Under the checkpoints section, click on the “RESTORE HERE!” checkpoint
 4. Click on Apply button on the right
+  
 ![Apply button](images/als-vm-apply.jpg)
+
 5. In this Apply Checkpoint prompt, click on Apply button.
+   
 ![confirm apply](images/als-vm-apply1.jpg)
+
 6. It will revert back to the default state and please try to start the virtual machine again.
 
 ---
@@ -45,22 +49,33 @@ Once you have your Autodesk account activated, launch Revit again and carry out 
 
 1. Click the **Already have a License?** link on the bottom right corner.
 2. **Let’s Get Started** screen will appear and then click **Switch user**.
+
   ![Revit - Let's get started](images/revit2.png)
+
 3. **Sign Out & Quit** screen will appear and then click **Continue** button.
+
   ![Revit - Let's get started](images/revit3.png)
+
 4. Click **OK** to close this warning message.
+
   ![Revit - Let's get started](images/revit4.png)
+
 5. Launch Revit and then click **Sign in with your Autodesk ID**.
+
   ![Revit - Let's get started](images/revit5.png)
+
 6. Follow the same steps in Section 9 of the Student User Guide to sign in.
 
 ---
 
 ## I have forgotten my password for Autodesk account.
 
-1. Click on the **FORGOT** link. 
+1. Click on the **FORGOT** link.
+
   ![Autodesk password](images/autodesk1.png)
+
 2. A message will prompt you to check your email. Carry out the instructions from the email to reset your password.
+
   ![Autodesk password](images/autodesk2.png)
 
 ---
@@ -86,12 +101,15 @@ Ensure thath the Tomcat service is running. You can start the Tomcat service by 
 You encounter the error message in either of these situations:
 
 **When logging into Archibus Web Central of your web browser**
+
 ![Archibus error message](images/archibus-error.png)
 
 **When launching Revit appliaction**
+
 ![Revit error message](images/revit-error.png)
 
 Or, you encounter the error message, **"There are no more CAD or BIM licenses available. The program has disabled these features for this session."**
+
 ![Revit error message](images/no-more-cad.png)
 
 
