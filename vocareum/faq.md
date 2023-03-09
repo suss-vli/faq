@@ -173,7 +173,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ## Copy/Paste text from Local Desktop to Virtual Desktop
 
-  1. Use Crtl + C keyboard shortcut to copy the text from your local desktop.
+  1. Use Ctrl + C keyboard shortcut to copy the text from your local desktop.
   2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
   
      ![Open noVNC control panel](images/novnc-control.png)
