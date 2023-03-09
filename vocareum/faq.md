@@ -171,25 +171,6 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ---
 
-## MongoDB is disconnected. I am facing an error trying to reconnect MongoDB.
-
-  For a quick fix, run the following commands on your terminal.
-  ```
-  cd /home/labsuser/dbfiles
-  rm -rfv WiredTiger.lock mongod.lock
-  sudo mongod --dbpath /home/labsuser/dbfiles --repair
-  ```
-  Once you run the above commands, proceed to restart your lab by pressing “End Lab” on the top right corner of your workspace and press “Start Lab” to start it again.
-  
-  ![Start/End Lab](images/start-end.png)
-
-<details>
-  <summary>Click for explanation.</summary>  
-  Usually when this happens, it means that the previous Mongodb run was not logged off properly and the lock file was not removed. The commands above try to remove the lock file.
-</details>
-
----
-
 ## Copy/Paste text from Local Desktop to Virtual Desktop
 
   1. Use Crtl + C keyboard shortcut to copy the text from your local desktop.
