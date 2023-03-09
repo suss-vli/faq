@@ -101,3 +101,39 @@ You're free to customize sites that you create with this template, however you l
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 [`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
 [`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+
+
+## If your css is not working on localhost
+
+
+go to `_config.yml` and change the theme from `remote_theme` to `theme`
+
+
+## Use callout in your faq 
+
+See https://github.com/suss-vli/faq/commit/3f8d1cdde7441a3865a23aeb1488301d88faa772 and https://github.com/suss-vli/faq/commit/291c188d302cdc132530bcf027682469e2acc471 
+
+> Annoyed that the sha did not convert as proposed here https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
+
+You need the callout tag
+
+```
+callouts:
+   important:
+     title: Important
+     color: blue
+
+```
+
+and config it at the _config.yml like this 
+
+```
+{: .important }
+ This is an important paragraph
+
+```
+
+
+```
+theme: just-the-docs
+```

@@ -6,3 +6,11 @@ url: https://suss-vli.github.io/faq/
 
 aux_links:
   VLI: http://suss-vli.github.io
+
+# markdown: kramdown
+# heading_anchors: true
+
+callouts:
+  important:
+    title: Important
+    color: blue
