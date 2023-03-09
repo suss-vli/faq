@@ -166,6 +166,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   5. The prompt to set the password for a new keyring will appear.
   
      ![mongodb-compass password prompt](images/mongodb-set-keyring.png)
+     
   6. Enter a new password for the keyring.
 
 ---
