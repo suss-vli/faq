@@ -20,8 +20,6 @@ permalink: als/
 
 ---
 
-blah!
-
 ## (For ICT257 students) What to do if `rht-vmctl reset <vmname>` does not achieve its intended objective and you are still stuck with a broken `<vmname>`?
 
 Perform the following to revert to the original checkpoint:
