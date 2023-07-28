@@ -35,7 +35,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
      c. Linux OS <br>
         &emsp;i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+ <br>
         &emsp;ii. An Intel Pentium 4 processor or later that's SSE3 capable <br>
-  3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `109.0.5414.75`. <br>
+  3. Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version `115.0.5790.110`. <br>
       a. Open Chrome browser. <br>
       b. On the URL bar, enter  `chrome://settings/cookies`
 
@@ -55,7 +55,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
       f. You will notice that your entry is now displayed at this section.
 
-      ![Check](images/check-site.png)
+      ![Check](images/check-site02.png)
          
       g. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
