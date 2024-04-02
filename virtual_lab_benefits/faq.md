@@ -45,7 +45,7 @@ Instructor is able to access it via the dashboard.
 
 The Virtual Lab team will have to install apps and setup the dependency before the start of the course. 
 
-Some of the applications that we support are: 
+Some of the applications & platforms that we support are: 
 
 - Jupyter Lab
 - Vscode
@@ -57,7 +57,7 @@ Some of the applications that we support are:
 - Python packages like seaborn, pandas, skilearn, matplot, beautifulsoup, `numpy`
 - Custom codeserver (vscode-like) extension via Open vsx registry
 - GUI applications 
-- 
+- Autograding via Jupyter Notebooks
 
 
 ## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
