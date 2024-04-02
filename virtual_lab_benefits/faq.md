@@ -54,8 +54,10 @@ Some of the applications that we support are:
 - R 
 - AWS learning lab 
 - Azure lab services
-- Python packages like seaborn, pandas, skilearn
+- Python packages like seaborn, pandas, skilearn, matplot, beautifulsoup, `numpy`
 - Custom codeserver (vscode-like) extension via Open vsx registry
+- GUI applications 
+- 
 
 
 ## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
