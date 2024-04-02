@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Vocareum For Instructors
+title: Virtual Lab Benefits
 nav_order: 4
 has_children: true
-permalink: vocareum_for_instructors/
+permalink: virtual_lab_benefits/
 # has_toc: true
 ---
 # FAQ - Vocareum
