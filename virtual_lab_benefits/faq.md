@@ -55,6 +55,7 @@ Some of the applications that we support are:
 - AWS learning lab 
 - Azure lab services
 - Python packages like seaborn, pandas, skilearn
+- Custom codeserver (vscode-like) extension via Open vsx registry
 
 
 ## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
@@ -68,4 +69,11 @@ The industry will receive constant updates to the latest technology. Virtual Lab
 ## 7. Personalised learning & Analytics (coming soon)
 
 Gain insights to lab guide and the data used by your students through kibana/ELK stack. These data will be made available to the instructors. 
+
+## 8. GUI support via container lab
+
+Do not need to deal with different interface from Window or MacOS. There is a common interface using Ubuntu/Linux and it also support GUI related courses.
+
+## 9. Upload files via Vocareum file tree or Vscode file upload. 
+
 
