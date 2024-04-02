@@ -23,7 +23,7 @@ Here are some key benefits of virtual lab that each course or programme will gai
 
 ## 0. Virtual Lab numbers
 
-Virtual Lab has support over `15` modules. As of 2 April 2024, Lab guide supporting over `1000` students across three programming modules - `ICT133`, `ICT162` and `ICT233`. Virtual Lab is supported by EMR under Learning Services Cluster. 
+Virtual Lab supports over `15` modules at SUSS. As of 2 April 2024, Lab guide supporting over `1000` students across three programming modules - `ICT133`, `ICT162` and `ICT233`. Virtual Lab is supported by EMR under Learning Services Cluster. 
 
 ## 1. Course Enhancement with Lab Guide and Autograding 
 
