@@ -23,7 +23,11 @@ Here are some key benefits of virtual lab that each course or programme will gai
 
 ## 1. Lab Guide with autograding 
 
-You can have Python and lab guide included in your course. For each course, 
+You can have Python and labguide included in your course. 
+
+Students can self-learn outside of lessons and improve their skills overtime through self-service. 
+
+For each course, 
 
 The installation is done by the virtual lab team. 
 
@@ -55,8 +59,13 @@ Some of the applications that we support are:
 
 ## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
 
-A team of devops will be assisting in programming lab support and platform support for your course. 
+A team of in-house devops will be assisting in programming lab support and platform support for your course. 
 
 ## 6. Continous updates 
 
 The industry will receive constant updates to the latest technology. Virtual Lab allows these updates to flow to each course and ensuring a standard for each course. 
+
+## 7. Personalised learning & Analytics (coming soon)
+
+Gain insights to lab guide and the data used by your students through kibana/ELK stack. These data will be made available to the instructors. 
+
