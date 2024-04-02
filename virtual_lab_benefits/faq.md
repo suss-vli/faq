@@ -21,21 +21,30 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ---
 
-## Lab Guide with autograding 
+## 1. Lab Guide with autograding 
 
 You can have Python and lab guide included in your course. 
 
-## Single Unified platform for teaching and learning
+## 2. Single Unified platform for teaching and learning
 
-## Remotely access student's Vocareum 
+## 3. Remotely access student's Vocareum 
 
-## App installation and setup
+## 4. App installation and setup
 
 The Virtual Lab team will have to install apps and setup the dependency before the start of the course. 
 
 Some of the applications that we support are: 
 
--
--
--
+- Jupyter Lab
+- Vscode
+- Mysql database
+- MongoDB database
+- 
 
+## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
+
+A team of devops will be assisting in programming lab support and platform support for your course. 
+
+## 6. Continous updates 
+
+The industry will receive constant updates to the latest technology. Virtual Lab allows these updates to flow to each course and ensuring a standard for each course. 
