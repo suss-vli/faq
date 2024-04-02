@@ -6,7 +6,7 @@ has_children: true
 permalink: virtual_lab_benefits/
 # has_toc: true
 ---
-# FAQ - Vocareum
+# FAQ - Virtual Lab Benefits
 {: .no_toc }
 If your issue cannot be resolved by any of the FAQ, please email <vlisupport@suss.edu.sg> for assistance.
 
@@ -20,3 +20,22 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 </details>
 
 ---
+
+## Lab Guide with autograding 
+
+You can have Python and lab guide included in your course. 
+
+## Single Unified platform for teaching and learning
+
+## Remotely access student's Vocareum 
+
+## App installation and setup
+
+The Virtual Lab team will have to install apps and setup the dependency before the start of the course. 
+
+Some of the applications that we support are: 
+
+-
+-
+-
+

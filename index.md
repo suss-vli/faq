@@ -9,9 +9,9 @@ If the FAQ solution does not help resolve your issue, please write an email to <
 
 ## About vlisupport@suss.edu.sg
 
-Dear Students, vlisupport is a **tech support service** for Virtual Lab and Vocareum technical queries.
+Dear Students, vlisupport is a **tech support service** for Virtual Lab, Vocareum, Lab Guide technical queries.
 
-Our focus is to **assist with technical issues on the platform, Vocareum and Lab Guide**. 
+Our focus is to **assist with technical issues** on the platform, Vocareum and Lab Guide. 
 
 Unfortunately, we **are unable to** assist with: 
 
