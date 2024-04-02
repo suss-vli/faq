@@ -4,11 +4,11 @@ title: Virtual Lab Benefits
 nav_order: 4
 has_children: true
 permalink: virtual_lab_benefits/
-# has_toc: true
 ---
 # FAQ - Virtual Lab Benefits
 {: .no_toc }
-If your issue cannot be resolved by any of the FAQ, please email <vlisupport@suss.edu.sg> for assistance.
+
+Here are some key benefits of virtual lab that each course or programme will gain when they adopt virtual lab. 
 
 <details open markdown="block">
   <summary>
@@ -23,11 +23,19 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 ## 1. Lab Guide with autograding 
 
-You can have Python and lab guide included in your course. 
+You can have Python and lab guide included in your course. For each course, 
+
+The installation is done by the virtual lab team. 
 
 ## 2. Single Unified platform for teaching and learning
 
+Vocareum runs on Ubuntu inside a docker. It allows everyone to be running on the same platform so that the lecturers and students will be on the same page. 
+
 ## 3. Remotely access student's Vocareum 
+
+Instructor is able to remotely access student's vocareum to assist them on their learning. 
+
+Instructor is able to access it via the dashboard. 
 
 ## 4. App installation and setup
 
@@ -37,9 +45,13 @@ Some of the applications that we support are:
 
 - Jupyter Lab
 - Vscode
-- Mysql database
+- MySQL database
 - MongoDB database
-- 
+- R 
+- AWS learning lab 
+- Azure lab services
+- Python packages like seaborn, pandas, skilearn
+
 
 ## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
 
