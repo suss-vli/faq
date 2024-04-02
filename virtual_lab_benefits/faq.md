@@ -27,13 +27,13 @@ You can have Python and labguide included in your course.
 
 Students can self-learn outside of lessons and improve their skills overtime through self-service. 
 
-For each course, 
-
-The installation is done by the virtual lab team. 
+For each course, the installation is done by the virtual lab team. 
 
 ## 2. Single Unified platform for teaching and learning
 
 Vocareum runs on Ubuntu inside a docker. It allows everyone to be running on the same platform so that the lecturers and students will be on the same page. 
+
+For instance https://suss-vli.github.io/faq/vocareum/#downloading-from-jupyterlab-ide
 
 ## 3. Remotely access student's Vocareum 
 
