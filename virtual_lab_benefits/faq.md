@@ -21,31 +21,26 @@ Here are some key benefits of virtual lab that each course or programme will gai
 
 ---
 
-## 1. Lab Guide with autograding 
+## 1. Course Enhancement with Lab Guide and Autograding 
 
-You can have Python and labguide included in your course. 
+Include Python and LabGuide in your course to allow students to independently learn and progressively enhance their skills through self-service. 
 
-Students can self-learn outside of lessons and improve their skills overtime through self-service. 
+Installation for each course is handled by the virtual lab team.
 
-For each course, the installation is done by the virtual lab team. 
+## 2. Unified Teaching and Learning Platform
 
-## 2. Single Unified platform for teaching and learning
+Vocareum uses Ubuntu within a Docker environment, ensuring uniformity across teaching and learning platforms for both lecturers and students. 
 
-Vocareum runs on Ubuntu inside a docker. It allows everyone to be running on the same platform so that the lecturers and students will be on the same page. 
+For more details, visit the SUSS VLI FAQ page on Vocareum https://suss-vli.github.io/faq/vocareum/#downloading-from-jupyterlab-ide
 
-For instance https://suss-vli.github.io/faq/vocareum/#downloading-from-jupyterlab-ide
+## 3. Remote Access for Instructors 
 
-## 3. Remotely access student's Vocareum 
+Instructors can remotely access students' Vocareum workspaces for support, accessible through the dashboard.
 
-Instructor is able to remotely access student's vocareum to assist them on their learning. 
 
-Instructor is able to access it via the dashboard. 
+## 4. Pre-course app installation
 
-## 4. App installation and setup
-
-The Virtual Lab team will have to install apps and setup the dependency before the start of the course. 
-
-Some of the applications & platforms that we support are: 
+The Virtual Lab team prepares by installing and setting up necessary applications and dependencies, supporting a wide range of tools including
 
 - Jupyter Lab
 - Vscode
@@ -59,23 +54,22 @@ Some of the applications & platforms that we support are:
 - GUI applications 
 - Autograding via Jupyter Notebooks
 
+## 5. Virtual Lab Support
 
-## 5. Gaining Virtual Lab Support through vlisupport@suss.edu.sg
+For programming and platform support, contact the in-house devops team at vlisupport@suss.edu.sg.
 
-A team of in-house devops will be assisting in programming lab support and platform support for your course. 
+## 6. Continuous Technology Updates 
 
-## 6. Continous updates 
+Virtual Lab regularly updates to the latest technologies, maintaining a consistent standard across courses.
 
-The industry will receive constant updates to the latest technology. Virtual Lab allows these updates to flow to each course and ensuring a standard for each course. 
+## 7. Personalized Learning and Analytics (Upcoming)
 
-## 7. Personalised learning & Analytics (coming soon)
+Gain Insights into lab guides and student data will be available through Kibana/ELK stack, providing valuable feedback to instructors.
 
-Gain insights to lab guide and the data used by your students through kibana/ELK stack. These data will be made available to the instructors. 
+## 8. GUI Support in Container Labs
 
-## 8. GUI support via container lab
+Offers a uniform interface across different operating systems using Ubuntu/Linux, supporting GUI-based courses.
 
-Do not need to deal with different interface from Window or MacOS. There is a common interface using Ubuntu/Linux and it also support GUI related courses.
+## 9. File Management
 
-## 9. Upload files via Vocareum file tree or Vscode file upload. 
-
-
+Files can be uploaded via Vocareum’s file tree or VSCode file upload feature.
