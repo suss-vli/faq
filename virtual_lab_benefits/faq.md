@@ -33,6 +33,8 @@ Include Python and LabGuide in your course to allow students to independently le
 
 Installation for each course is handled by the virtual lab team.
 
+![labguide-demo](./images/labguide-demo.gif)
+
 ## 2. Unified Teaching and Learning Platform
 
 Vocareum uses Ubuntu within a Docker environment, ensuring uniformity across teaching and learning platforms for both lecturers and students. 
@@ -86,3 +88,6 @@ For more details, please see [https://suss-vli.github.io/faq/vocareum/#how-do-i-
 
 ## 10. AI integration (Upcoming!)
 
+## 11. Automatic LTI integration with Canvas
+
+Virtual Lab works in Canvas and the class list will automatically loaded via LTI. 
