@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vocareum
+title: Vocareum For Instructors
 nav_order: 4
 has_children: true
 permalink: vocareum_for_instructors/
