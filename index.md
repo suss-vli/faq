@@ -11,11 +11,12 @@ If the FAQ solution does not help resolve your issue, please write an email to <
 
 Dear Students, vlisupport is a **tech support service** for Virtual Lab and Vocareum technical queries.
 
-We **CANNOT** assist with: 
+Our focus is to **assist with technical issues on the platform**. 
 
-1. Changing deadlines for TMA, ECA, or assignments. Please consult your lecturers. 
-2. Providing advice on TMA, ECA, academic programs, or degrees. Please consult your HOP or lecturers. 
-3. Offering solutions or help with TMA/ECA assignments. Please consult your lecturers. 
+We **are unable to** assist with: 
+
+1. Changing deadlines or advise on academics matter for TMA, ECA, or assignments. Please consult your HOP or lecturers. 
+2. Offering solutions or help with TMA/ECA assignments. Please consult your lecturers. 
 
 Thank you. 
 
