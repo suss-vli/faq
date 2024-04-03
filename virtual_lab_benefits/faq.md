@@ -2,7 +2,7 @@
 layout: default
 title: Virtual Lab Benefits
 nav_order: 4
-has_children: true
+has_children: false
 permalink: virtual_lab_benefits/
 ---
 # FAQ - Virtual Lab Benefits

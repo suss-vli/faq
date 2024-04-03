@@ -2,7 +2,7 @@
 layout: default
 title: Getting Started
 nav_order: 4
-has_children: true
+has_children: false
 permalink: getting_started_for_lecturers/
 ---
 
