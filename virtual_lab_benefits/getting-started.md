@@ -1,3 +1,11 @@
+---
+layout: default
+title: Getting Started
+nav_order: 4
+has_children: true
+permalink: getting_started_for_lecturers/
+---
+
 # Getting Started in Bringing Virtual Lab to your programme or school
 
 If you are a HOP or lecturer, you can do the following
