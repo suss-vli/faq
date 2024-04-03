@@ -23,3 +23,13 @@ This depends on the depth of knowledge that you have.
 2. We will usually approach the course lead or HOP at least six months to one year.
 
 To see the full benefits of virtual lab, please visit here [https://suss-vli.github.io/faq/](https://suss-vli.github.io/faq/)
+
+## Requirement
+
+How do you know if your course qualify for virtual lab? 
+
+1. There is a needs like python programming
+2. You have a large student base and you have the following problems: 
+   1. It's a coding course
+   2. You would like to level up their technical skill 
+   3. You would like a common 
