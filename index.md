@@ -16,7 +16,11 @@ Dear Students, vlisupport is a **tech support service** for Virtual Lab, Vocareu
 ❌ Unfortunately, we **are unable to** assist with: 
 
 1. Changing deadlines or advise on academics matter for TMA, ECA, or assignments. Please consult your HOP or lecturers. 
-2. Offering solutions or help with TMA/ECA assignments. Please consult your lecturers. 
+2. Offering solutions or help with TMA/ECA assignments. Please consult your lecturers.
+
+### Additional Guidance
+
+Students are advised to keep to the stable version of the OS. Newer versions often have app compatibility issues. You can maintain an older version by upgrading the security patches. This is especially true during projects or assignments to ensure smooth operation of the required applications.
 
 Thank you. 
 
