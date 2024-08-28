@@ -23,7 +23,7 @@ If your issue cannot be resolved by any of the FAQ, please email <bryanlimyt@sus
 ## What is Valence
 Valence is a virtual lab solution that allows students to access a remote desktop environment for their programming needs.
 
-## What is in Valence
+## What's inside Valence
 The Virtual Lab team prepares by installing and setting up necessary applications and dependencies, supporting a wide range of tools including
 
 - Chrome
@@ -37,7 +37,6 @@ The Virtual Lab team prepares by installing and setting up necessary application
 
 ## Access for Lecturers
 Lecturers can request for access to Valence by emailing <bryanlimyt@suss.edu.sg>. <!-- <vlisupport@suss.edu.sg> -->
-
 
 ## Running Valence
 1. Pip install valence 2 using `pip install --no-cache-dir git+https://github.com/suss-vli/valence2.git`
