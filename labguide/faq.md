@@ -44,6 +44,37 @@ The Virtual Lab team prepares by installing and setting up necessary application
 ## Getting Access
 LabGuide is open-sourced and available on GitHub. Access the repository [here](https://github.com/suss-vli/ilabguide).
 
-## Getting Started as a Lecturer
+## Getting Started
+Follow these steps to get started with LabGuide:
+```sh
+git clone https://github.com/suss-vli/iLabGuide
+git clone https://github.com/suss-vli/suss
+git clone https://github.com/suss-vli/learntools
+cd iLabGuide
+python -m venv venv
+source venv/bin/activate
+pip3 install ../suss
+pip3 install ../learntools 
+pip3 install -r requirements.txt 
+```
 
-## Getting Started as a Student
+## Importing Labs and Questions
+- ICT133
+```sh
+from learntools.core import binder; 
+binder.bind(globals())
+from suss.ict133.lab1 import *
+```
+- ICT162
+```sh
+from learntools.core import binder; 
+binder.bind(globals())
+from suss.ict162.lab1 import *
+```
+
+## Preparing tha Lab for Students
+As a lecturer, you can prepare the lab for students by following these commands:
+```sh
+chmod 700 clean.sh
+./clean.sh
+```
