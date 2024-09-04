@@ -22,7 +22,7 @@ If your issue cannot be resolved by any of the FAQ, please email  for assistance
 ---
 
 ## What is LabGuide
-iLabGuide is an interactive study guide with autotestable and autogradable labs which includes jupyter notebooks as questions. This allows students to independently learn and progressively enhance their skills through self-service. 
+LabGuide is an interactive study guide with autotestable and autogradable labs which includes jupyter notebooks as questions. This allows students to independently learn and progressively enhance their skills through self-service. 
 
 ## Courses covered by LabGuide
 LabGuide covers the following courses:
@@ -42,15 +42,15 @@ The Virtual Lab team prepares by installing and setting up necessary application
 - `hello.py` - prints "hello, world!" as a tester plugin 
 
 ## Getting Access
-LabGuide is open-sourced and available on GitHub. Access the repository [here](https://github.com/suss-vli/ilabguide).
+LabGuide is open-sourced and available on GitHub. Access the repository [here](https://github.com/suss-vli/LabGuide).
 
 ## Getting Started
 Follow these steps to get started with LabGuide:
 ```sh
-git clone https://github.com/suss-vli/iLabGuide
+git clone https://github.com/suss-vli/LabGuide
 git clone https://github.com/suss-vli/suss
 git clone https://github.com/suss-vli/learntools
-cd iLabGuide
+cd LabGuide
 python -m venv venv
 source venv/bin/activate
 pip3 install ../suss
