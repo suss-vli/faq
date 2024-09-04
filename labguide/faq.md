@@ -72,7 +72,7 @@ binder.bind(globals())
 from suss.ict162.lab1 import *
 ```
 
-## Preparing tha Lab for Students
+## Preparing the Lab for Students
 As a lecturer, you can prepare the lab for students by following these commands:
 ```sh
 chmod 700 clean.sh
