@@ -3,7 +3,7 @@ layout: default
 title: iLabGuide
 nav_order: 4
 has_children: false
-permalink: valence/
+permalink: iLabGuide/
 ---
 
 # FAQ - iLabGuide
