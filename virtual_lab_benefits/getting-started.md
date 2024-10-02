@@ -6,7 +6,7 @@ has_children: false
 permalink: getting_started_for_lecturers/
 ---
 
-# Getting Started 
+# Getting Started `
 
 If you are a HOP or lecturer, you can do the following to bring Virtual Lab to your programme or course
 
