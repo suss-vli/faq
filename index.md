@@ -25,7 +25,5 @@ Students are advised to keep to the stable version of the OS. Newer versions oft
 
 Thank you. 
 
-ga_tracking: G-59V28ECH68
-
 
 
