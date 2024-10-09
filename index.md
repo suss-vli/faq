@@ -1,3 +1,4 @@
+ga_tracking: G-59V28ECH68
 ---
 title: Home
 layout: home
