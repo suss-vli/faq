@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Valence
-nav_order: 6
-has_children: false
+parent: Platform
+nav_order: 1
 permalink: valence/
 ---
 
