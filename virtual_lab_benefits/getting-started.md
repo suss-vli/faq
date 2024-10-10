@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 2
-has_children: false
+parent: Coding
+nav_order: 1
 permalink: getting_started_for_lecturers/
 ---
 
