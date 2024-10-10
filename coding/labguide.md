@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Labguide
-nav_order: 4
-has_children: false
+parent: Coding
+nav_order: 3
 permalink: labguide/
 ---
 # FAQ - LabGuide
