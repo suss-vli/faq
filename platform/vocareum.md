@@ -4,7 +4,6 @@ title: Vocareum
 parent: Platform
 nav_order: 2
 permalink: vocareum/
-# has_toc: true
 ---
 # FAQ - Vocareum
 {: .no_toc }
