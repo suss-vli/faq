@@ -1,8 +1,8 @@
 ---
 layout: default
 title: iLabGuide
-nav_order: 5
-has_children: false
+nav_order: 3
+parent: Coding
 permalink: iLabGuide/
 ---
 

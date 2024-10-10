@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Virtual Lab Benefits
-nav_order: 4
-has_children: false
+nav_order: 2
+parent: Coding
 permalink: virtual_lab_benefits/
 ---
 # FAQ - Virtual Lab Benefits
