@@ -45,36 +45,57 @@ The Virtual Lab team prepares by installing and setting up necessary application
 LabGuide is open-sourced and available on GitHub. Access the repository [here](https://github.com/suss-vli/LabGuide).
 
 ## Getting Started
-Follow these steps to get started with LabGuide:
-```sh
-git clone https://github.com/suss-vli/LabGuide
-git clone https://github.com/suss-vli/suss
-git clone https://github.com/suss-vli/learntools
-cd LabGuide
-python -m venv venv
-source venv/bin/activate
-pip3 install ../suss
-pip3 install ../learntools 
-pip3 install -r requirements.txt 
+Install LabGuide package
+```
+pip install git+https://github.com/suss-vli/labguide.git
 ```
 
-## Importing Labs and Questions
-- ICT133
-```sh
-from learntools.core import binder; 
-binder.bind(globals())
-from suss.ict133.lab1 import *
+### Initial Setup
+
+Create a folder to store all the labs. Navigate to that folder and run the setup command.
 ```
-- ICT162
-```sh
-from learntools.core import binder; 
-binder.bind(globals())
-from suss.ict162.lab1 import *
+cd <lab directory>
+labguide setup
+```
+For example:
+```
+cd labs 
+labguide setup
 ```
 
-## Preparing the Lab for Students
-As a lecturer, you can prepare the lab for students by following these commands:
-```sh
-chmod 700 clean.sh
-./clean.sh
+The setup will create a `lab0/` folder in your current working directory, and includes `lab0.ipynb` for you to try out.
+
+### Setup for Courses
+
+1. Navigate to the lab folder.
+
+ 
 ```
+cd <lab directory>
+```
+
+2. To get the labs of the course and set up the LabGuide environment, you can use the command:
+
+ 
+```
+labguide get <course>
+```
+For example:
+```
+labguide get ict133
+```
+This command will `git clone` the course's labs into the `<course>/` folder.
+
+3. Run the `setup` command:
+
+ 
+```
+labguide setup <course>
+```
+For example:
+```
+labguide setup ict133
+```
+This command will install all the dependencies required for the labs.
+
+4. Your labs are now ready for you!
