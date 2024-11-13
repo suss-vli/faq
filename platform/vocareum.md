@@ -38,23 +38,23 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
       a. Open Chrome browser. <br>
       b. On the URL bar, enter  `chrome://settings/cookies`
 
-      ![Cookies](/platform/images/settings-cookies.png)
+      ![Cookies](https://suss-vli.github.io/faq/platform/images/settings-cookies.png)
 
       c. Scroll down the page until you see this section – **Sites that can always use cookies** and click on the **Add** button.
 
-      ![Cookies](/platform/images/cookies-add.png)
+      ![Cookies](https://suss-vli.github.io/faq/platform/images/cookies-add.png)
 
       d. In the **Add a site box**, enter `[*.]labs.vocareum.com` into the Site prompt and check **Including third-party cookies on this site**.
 
-      ![Add Vocareum labs](/platform/images/add-voc.png)
+      ![Add Vocareum labs](https://suss-vli.github.io/faq/platform/images/add-voc.png)
 
       e. Click Add button to add and the prompt box will close.
 
-      ![Add site](/platform/images/add-site.png)
+      ![Add site](https://suss-vli.github.io/faq/platform/images/add-site.png)
 
       f. You will notice that your entry is now displayed at this section.
 
-      ![Check](/platform/images/check-site02.png)
+      ![Check](https://suss-vli.github.io/faq/platform/images/check-site02.png)
          
       g. Restart your Chrome browser and you should be able to access Vocareum Labs now.
 
@@ -64,18 +64,18 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   Students who are using Safari browser on their MAC may encounter this issue where a blank screen will appear after clicking on Vocareum Labs on Canvas (see image below).
 
-  ![Blank screen](/platform/images/blank-screen2.png)
+  ![Blank screen](https://suss-vli.github.io/faq/platform/images/blank-screen2.png)
 
   To solve the issue:
 
   1. Click on **Safari**, then select **Preferences**.
   
-     ![Preferences](/platform/images/preferences.png)
+     ![Preferences](https://suss-vli.github.io/faq/platform/images/preferences.png)
      
   3. From the **Preferences** window, click on **Privacy**.
   4. Under Website tracking setting, uncheck the **Prevent cross-site tracking** option.
   
-     ![Safari settings](/platform/images/safari-settings.png)
+     ![Safari settings](https://suss-vli.github.io/faq/platform/images/safari-settings.png)
   4. Close the prompt box.
   5. Refresh the Safari browser page.
 
@@ -85,7 +85,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   For users who come across the virtual desktop screensaver and need the password to unlock it, the password is `labsuser`.
 
-  ![Screensaver password](/platform/images/screensaver.png)
+  ![Screensaver password](https://suss-vli.github.io/faq/platform/images/screensaver.png)
 
 ---
 
@@ -93,7 +93,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   If you have selected **One empty panel** on the Panel Prompt as shown below, you will get a black box on the desktop.
   
-  ![Black_box](/platform/images/black-box.png)
+  ![Black_box](https://suss-vli.github.io/faq/platform/images/black-box.png)
   
   To resolve this issue:
   
@@ -114,7 +114,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   1. Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop.
      A sample of the error is shown below.
      
-     ![Connection lost](/platform/images/novnc-disconnect.png)
+     ![Connection lost](https://suss-vli.github.io/faq/platform/images/novnc-disconnect.png)
 
   2. The noVNC loading is stuck at the connecting loop indefinitely.
 
@@ -124,7 +124,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   b. Navigate back to the **Work Workspace** and end the current session by clicking **End Lab**.<br>
   c. Click on **Start Lab** to obtain a new session.<br>
   
-  ![Start/End Lab](/platform/images/start-end.png)
+  ![Start/End Lab](https://suss-vli.github.io/faq/platform/images/start-end.png)
 
 ---
 
@@ -132,13 +132,13 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   For Vocareum labs, there is **a time limit of 5 hours** for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below).
   
-  ![Session Time](/platform/images/sessiontime.png)
+  ![Session Time](https://suss-vli.github.io/faq/platform/images/sessiontime.png)
   
   You can re-access your lab by closing the lab and starting a new lab session using the "End Lab" and "Start Lab" buttons.
 
   If the above method does not work, you can click on "Vocareum Lab" in Canvas to reload the Vocareum lab to start a new lab session.
 
-  ![Start/End Lab](/platform/images/canvas.png)
+  ![Start/End Lab](https://suss-vli.github.io/faq/platform/images/canvas.png)
 
 ---
 
@@ -146,9 +146,9 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   If one of the following error message appears after clicking **My Work**, please close the message and click **Start Lab** again. The lab session will be able to start as soon as it has completed loading.
 
-   ![Timeout on lab](/platform/images/timeout-lab1.png)
-   ![Fail to launch tab](/platform/images/timeout-lab2.png)
-   ![Fail to launch tab](/platform/images/timeout-lab3.png)
+   ![Timeout on lab](https://suss-vli.github.io/faq/platform/images/timeout-lab1.png)
+   ![Fail to launch tab](https://suss-vli.github.io/faq/platform/images/timeout-lab2.png)
+   ![Fail to launch tab](https://suss-vli.github.io/faq/platform/images/timeout-lab3.png)
 
 ---
 
@@ -164,7 +164,7 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   4. Re-launch the MongoDB compass application. Accept the default and click **Connect**
   5. The prompt to set the password for a new keyring will appear.
   
-     ![mongodb-compass password prompt](/platform/images/mongodb-set-keyring.png)
+     ![mongodb-compass password prompt](https://suss-vli.github.io/faq/platform/images/mongodb-set-keyring.png)
      
   6. Enter a new password for the keyring.
 
@@ -175,18 +175,18 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
   1. Use Ctrl + C keyboard shortcut to copy the text from your local desktop.
   2. Navigate to your virtual desktop and click on the arrow to open the noVNC control panel.
   
-     ![Open noVNC control panel](/platform/images/novnc-control.png)
+     ![Open noVNC control panel](https://suss-vli.github.io/faq/platform/images/novnc-control.png)
   3. Click on the **Clipboard** button on the noVNC control panel to open the Clipboard.
   
-     ![Open noVNC clipboard](/platform/images/novnc-clipboard.png)
+     ![Open noVNC clipboard](https://suss-vli.github.io/faq/platform/images/novnc-clipboard.png)
   4. Use Ctrl + V keyboard shortcut to paste the text into the Clipboard.
   5. In your virtual desktop, **right-click** on your mouse and click **Paste** to paste the contents on the application.
 
-     ![Paste contents](/platform/images/paste-virtual-desktop.png)
+     ![Paste contents](https://suss-vli.github.io/faq/platform/images/paste-virtual-desktop.png)
      
   6. Click the arrow on the noVNC control panel to hide it.
   
-     ![Close panel](/platform/images/close-novnc.png)
+     ![Close panel](https://suss-vli.github.io/faq/platform/images/close-novnc.png)
 
 ---
 
@@ -194,11 +194,11 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
   1. Highlight the text you want to copy to the local desktop.
   
-     ![Highlight text](/platform/images/highlight-text.png)
+     ![Highlight text](https://suss-vli.github.io/faq/platform/images/highlight-text.png)
   2. Click on the arrow on the left to open the noVNC control panel.
   3. Click on the **Clipboard** button on the noVNC control panel to display the Clipboard.
   
-     ![Open noVNC clipboard](/platform/images/display-clipboard.png)
+     ![Open noVNC clipboard](https://suss-vli.github.io/faq/platform/images/display-clipboard.png)
   4. Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard.
   5. Use the Ctrl + V keyboard shortcut to paste the text in your local desktop.
 
@@ -224,19 +224,19 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 1. Select the file(s) that you wish to download.
 2. To select multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue.
   
-   ![Select files](/platform/images/select-file.png)
+   ![Select files](https://suss-vli.github.io/faq/platform/images/select-file.png)
 
 3. Right click on the selected file(s) and click on **Download**.
 
-   ![Download vscode](/platform/images/download-file.png)
+   ![Download vscode](https://suss-vli.github.io/faq/platform/images/download-file.png)
 
 4. If there is a prompt appearing on your screen to ask for your permission, click **Allow**.
   
-    ![Allow multiple file download](/platform/images/allow-multiple.png)
+    ![Allow multiple file download](https://suss-vli.github.io/faq/platform/images/allow-multiple.png)
 
 5. Verify that the file(s) have been downloaded to your computer.
 
-   ![Verify download](/platform/images/verify-download.png)
+   ![Verify download](https://suss-vli.github.io/faq/platform/images/verify-download.png)
 
 
 ### Downloading from JupyterLab IDE
@@ -244,33 +244,33 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 1. Select the file(s) that you wish to download.
 2. To select multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue.
 
-    ![Select files](/platform/images/select-file-jupyter.png)
+    ![Select files](https://suss-vli.github.io/faq/platform/images/select-file-jupyter.png)
 
 3. Right click on the selected file(s) you wish to download.
 4. Select "Download".
 
-    ![Download Jupyterlab](/platform/images/download-file-jupyter.png)
+    ![Download Jupyterlab](https://suss-vli.github.io/faq/platform/images/download-file-jupyter.png)
 
 
 ### Downloading from Virtual Desktop
 
 1.	Navigate to **Work WorkSpace** and click the **Reload** icon <u>once</u> to reload the file tree. This step will reload the contents of the work folder.
 
-    ![Reload](/platform/images/reload-workspace.png)
+    ![Reload](https://suss-vli.github.io/faq/platform/images/reload-workspace.png)
 
 2. Click on the file/folder that you wish to download.
 
-    ![Select file on file tree](/platform/images/file-tree-select.png)
+    ![Select file on file tree](https://suss-vli.github.io/faq/platform/images/file-tree-select.png)
 
 {: .important } If you have multiple files/folders to download, you must do it one by one. The recommended way would be to zip up the files/folders into 1 zip file and you download the single zip file.
 
 3. Click on the **Download** icon button.
 
-    ![Download icon](/platform/images/file-tree-download.png)
+    ![Download icon](https://suss-vli.github.io/faq/platform/images/file-tree-download.png)
 
 4. The system will automatically compress the selected file/folder into a zip file. Click **Download zipped source** to download the file.
 
-    ![Download zip](/platform/images/download-zipped-source.png)
+    ![Download zip](https://suss-vli.github.io/faq/platform/images/download-zipped-source.png)
 
 ---
 
@@ -282,22 +282,22 @@ If your issue cannot be resolved by any of the FAQ, please email <vlisupport@sus
 
 Simply drag and drop your directory into the explorer of IDE on Vocareum. See below.
 
-![Upload project](/platform/images/upload.gif)
+![Upload project](https://suss-vli.github.io/faq/platform/images/upload.gif)
 
 <u>Method 2</u>
 
 1. Navigate to the directory where you wish to upload your file(s).
 2. **Right-click** on an empty area on the file explorer, click **Upload** and select the file(s) that you wish to upload.
 
-   ![Upload file](/platform/images/upload-vscode.png)
+   ![Upload file](https://suss-vli.github.io/faq/platform/images/upload-vscode.png)
 
 3. To upload multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click **Open** to upload.
 
-   ![Upload file](/platform/images/upload-open.png)
+   ![Upload file](https://suss-vli.github.io/faq/platform/images/upload-open.png)
 
 4. Once upload is completed, you can find the file(s) listed under the directory in your IDE.
 
-   ![Upload complete](/platform/images/upload-complete.png)
+   ![Upload complete](https://suss-vli.github.io/faq/platform/images/upload-complete.png)
 
 ### Uploading to JupyterLab IDE
 
@@ -305,28 +305,28 @@ Simply drag and drop your directory into the explorer of IDE on Vocareum. See be
 2. Click on the **Upload** icon button and select the file to upload. 
 3. To upload multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click **Open** to upload.
 
-     ![Upload file on Jupyter](/platform/images/upload-jupyter.gif)
+     ![Upload file on Jupyter](https://suss-vli.github.io/faq/platform/images/upload-jupyter.gif)
 
 ### Uploading to Virtual Desktop
 
 1. Navigate to **Work Workspace** and click on **work**.
 
-   ![Navigate workspace](/platform/images/upload-desktop.png)
+   ![Navigate workspace](https://suss-vli.github.io/faq/platform/images/upload-desktop.png)
 
 2. Click on **Upload** button.
 
-   ![Navigate workspace](/platform/images/upload-desktop2.png)
+   ![Navigate workspace](https://suss-vli.github.io/faq/platform/images/upload-desktop2.png)
 
 3. To upload multiple files, hold down on the `Control` button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click **Open** to upload.
 
-    ![Select files](/platform/images/upload-desktop3.png)
+    ![Select files](https://suss-vli.github.io/faq/platform/images/upload-desktop3.png)
 
 4. System will start to process the upload and will prompt successful when completed.
 
-    ![Uploading](/platform/images/upload-status.png)
+    ![Uploading](https://suss-vli.github.io/faq/platform/images/upload-status.png)
 
 5. Verify that your files have successfully uploaded from the file tree or in your Virtual Desktop.
 
-    ![Verify upload](/platform/images/verify-upload.png)
+    ![Verify upload](https://suss-vli.github.io/faq/platform/images/verify-upload.png)
 
 ---
