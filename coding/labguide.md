@@ -22,7 +22,7 @@ If your issue cannot be resolved by any of the FAQ, please email  for assistance
 ---
 
 ## What is LabGuide
-LabGuide is an interactive study guide with autotestable and autogradable labs which includes jupyter notebooks as questions. iLabGuide utilises `learntools` and [`suss`](https://github.com/suss-vli/suss) python packages to power the autograding and autotesting features. This allows students to independently learn and progressively enhance their skills through self-service. 
+LabGuide is an open-source Jupyter notebook created by SUSS learning services, which includes autogradable coding lab.  iLabGuide utilises `learntools` and [`suss`](https://github.com/suss-vli/suss) python packages to power the autograding and autotesting features. This allows students to independently learn and progressively enhance their skills through self-service. 
 
 ## Courses covered by LabGuide
 LabGuide covers the following courses:
