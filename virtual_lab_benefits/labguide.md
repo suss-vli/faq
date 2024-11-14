@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: iLabGuide
 nav_order: 3
 parent: Coding
 permalink: iLabGuide/
---- -->
+---
 
 # FAQ - iLabGuide
 {: .no_toc }
