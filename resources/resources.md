@@ -27,6 +27,9 @@ Students and educators are eligible for free access to JetBrains products. This 
 ## GitHub Student Developer Pack
 The GitHub Student Developer Pack is a collection of tools and services for students. This includes free access to GitHub Pro, AWS, and more. To apply for the GitHub Student Developer Pack, visit the [GitHub Student Developer Pack](https://education.github.com/pack) page.
 
+## Karel the Robot
+Karel the Robot is an educational programming language for learning the basics of computer science. To try out Karel the Robot, visit the [Karel the Robot](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) page.
+
 # AI Resources
 ## Gemini Flash
 Gemini 1.5 Flash is an addition to Google's Gemini AI model family, designed for speed and efficiency in high-volume applications. To try out Gemini Flash, visit the [Gemini Flash](https://deepmind.google/technologies/gemini/flash/) page.
