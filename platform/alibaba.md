@@ -21,6 +21,7 @@ If your issue cannot be resolved by any of the FAQ, please email <bryanlimyt@sus
 </details>
 
 ## What is Alibaba Virtual Desktop
+Alibaba Virtual Desktop is a cloud-based service that provides users with secure, scalable, and remote access to a fully functional desktop environment from any device with an internet connection.
 
 ## How to Set Up Alibaba Virtual Desktop
 ### Login to Alibaba Virtual Desktop
