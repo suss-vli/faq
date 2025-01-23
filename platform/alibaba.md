@@ -23,3 +23,12 @@ If your issue cannot be resolved by any of the FAQ, please email <bryanlimyt@sus
 ## What is Alibaba Virtual Desktop
 
 ## How to Set Up Alibaba Virtual Desktop
+### Login to Alibaba Virtual Desktop
+1. Enter Organisation ID
+2. Enter your username and password
+3. Click enter and you will have access to your workspace
+
+### Changing the Resolution
+1. Login to Alibaba Virtual Desktop
+2. On the top of your screen, click the bright green button, followed by "Settings"
+3. Under "Preferences" and "Display", you should be able to change the resolution to your preferred liking. (Suggestion: 1280 * 720)
