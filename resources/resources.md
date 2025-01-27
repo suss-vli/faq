@@ -56,3 +56,4 @@ v0 is a generative user interface system powered by natural language and AI. To 
 
 ## Bolt.new
 Bolt.new is a platform for building and deploying web applications. To try out Bolt.new, visit the [Bolt.new](https://bolt.new/) page.
+

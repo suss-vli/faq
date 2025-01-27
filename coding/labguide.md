@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Labguide
+title: Labguide SDK
 parent: Coding
 nav_order: 4
 permalink: labguide/
