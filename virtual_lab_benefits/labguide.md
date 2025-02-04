@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: default
 title: iLabGuide
 nav_order: 3
 parent: Coding
 permalink: iLabGuide/
----
+--- -->
 
 # FAQ - iLabGuide
 {: .no_toc }
@@ -21,7 +21,7 @@ Here are some key benefits of iLabGuide that each course or programme will gain 
 </details>
 
 ## 0. iLabGuide
-iLabGuide is an interactive study guide with autotestable and autogradable labs which includes jupyter notebooks as questions. iLabGuide utilises `learntools` and [`suss`](https://github.com/suss-vli/suss) python packages to power the autograding and autotesting features.
+LabGuide is an open-source Jupyter notebook created by SUSS learning services, which includes autogradable coding lab. iLabGuide utilises `learntools` and [`suss`](https://github.com/suss-vli/suss) python packages to power the autograding and autotesting features.
 
 iLabGuide covers the following courses:
 - ICT133
