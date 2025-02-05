@@ -26,11 +26,9 @@ Alibaba Virtual Desktop is a cloud-based service that provides users with secure
 ## How to Set Up Alibaba Virtual Desktop
 ### Login to Alibaba Virtual Desktop
 1. Enter Organisation ID
-
 ![Enter Org ID](https://suss-vli.github.io/faq/platform/images/enter-org-id.png)
 
 2. Enter your username and password
-
 ![Enter Username and Password](https://suss-vli.github.io/faq/platform/images/enter-username.png)
 
 3. Click enter and you will have access to your workspace
@@ -38,9 +36,7 @@ Alibaba Virtual Desktop is a cloud-based service that provides users with secure
 ### Changing the Resolution
 1. Login to Alibaba Virtual Desktop
 2. On the top of your screen, click the bright green button, followed by "Settings"
-
 ![Settings](https://suss-vli.github.io/faq/platform/images/bright-green-button.png)
 
 3. Under "Preferences" and "Display", you should be able to change the resolution to your preferred liking. (Suggestion: 1280 * 720)
-
 ![Resolution](https://suss-vli.github.io/faq/platform/images/change-resolution.png)
