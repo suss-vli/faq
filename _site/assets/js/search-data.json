@@ -1,0 +1,639 @@
+{"0": {
+    "doc": "Alibaba",
+    "title": "FAQ - Valence",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email bryanlimyt@suss.edu.sg for assistance. | What is Alibaba Virtual Desktop | How to Set Up Alibaba Virtual Desktop . | Login to Alibaba Virtual Desktop | Changing the Resolution | . | . ",
+    "url": "/alibaba/#faq---valence",
+    
+    "relUrl": "/alibaba/#faq---valence"
+  },"1": {
+    "doc": "Alibaba",
+    "title": "What is Alibaba Virtual Desktop",
+    "content": "Alibaba Virtual Desktop is a cloud-based service that provides users with secure, scalable, and remote access to a fully functional desktop environment from any device with an internet connection. ",
+    "url": "/alibaba/#what-is-alibaba-virtual-desktop",
+    
+    "relUrl": "/alibaba/#what-is-alibaba-virtual-desktop"
+  },"2": {
+    "doc": "Alibaba",
+    "title": "How to Set Up Alibaba Virtual Desktop",
+    "content": "Login to Alibaba Virtual Desktop . | Enter Organisation ID . | Enter your username and password . | Click enter and you will have access to your workspace . | . Changing the Resolution . | Login to Alibaba Virtual Desktop | On the top of your screen, click the bright green button, followed by “Settings” . | Under “Preferences” and “Display”, you should be able to change the resolution to your preferred liking. (Suggestion: 1280 * 720) | . ",
+    "url": "/alibaba/#how-to-set-up-alibaba-virtual-desktop",
+    
+    "relUrl": "/alibaba/#how-to-set-up-alibaba-virtual-desktop"
+  },"3": {
+    "doc": "Alibaba",
+    "title": "Alibaba",
+    "content": " ",
+    "url": "/alibaba/",
+    
+    "relUrl": "/alibaba/"
+  },"4": {
+    "doc": "DeekSeek R1",
+    "title": "FAQ - DeepSeek R1",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email bryanlimyt@suss.edu.sg for assistance. | What is DeepSeek R1 | Running DeepSeek Locally | . ",
+    "url": "/deepseek/#faq---deepseek-r1",
+    
+    "relUrl": "/deepseek/#faq---deepseek-r1"
+  },"5": {
+    "doc": "DeekSeek R1",
+    "title": "What is DeepSeek R1",
+    "content": "DeepSeek R1 is an advanced reasoning AI model developed by the Chinese company DeepSeek, designed to excel at complex problem-solving and logical tasks by breaking down issues into multiple steps; it is considered a competitor to OpenAI’s models and is notable for being open-source, allowing for free commercial and academic use, while also boasting a lower operating cost compared to other high-performance AI models. Key points about DeepSeek R1: . | Focus on reasoning: Unlike many other AI models that prioritize generating text, DeepSeek R1 prioritizes logical reasoning and step-by-step problem-solving. | Open-source access: The model is available to the public under an MIT license, allowing researchers and developers to freely access and customize it. | Cost-effective: Compared to other high-performance AI models, DeepSeek R1 is designed to operate at a significantly lower cost. | Reinforcement learning based: The model leverages reinforcement learning techniques to improve its reasoning capabilities. | Potential applications: Complex problem-solving, logical inference tasks, research projects requiring advanced reasoning abilities. | . ",
+    "url": "/deepseek/#what-is-deepseek-r1",
+    
+    "relUrl": "/deepseek/#what-is-deepseek-r1"
+  },"6": {
+    "doc": "DeekSeek R1",
+    "title": "Running DeepSeek Locally",
+    "content": "To run DeepSeek R1 locally, follow any of these options: . | Running Model Locally using Ollama . | Guide by CodeAcademy: How to Run Deepseek R1 Locally | Guide by WorkOS: How to run DeepSeek locally | . | . Choosing a Distilled Model: The DeepSeek-R1-Distill variants are smaller (1.5B, 7B, 8B, etc.) and optimized for developers/students/lecturers who: . | Want lighter compute requirements, so they can run models on less-powerful machines. | Prefer faster responses, especially for real-time coding help. | Don’t want to sacrifice too much performance or reasoning capability. | . To install a distilled model (e.g. 1.5b), just specify its tag, as such: ollama run deepseek-r1:1.5b . Integrations with R1 Model . | Visual Studio Code Extension: CodeGPT . | Link to Guide | . | Open WebUI - Simple web-based interface for interacting with Ollama models . | Link to Open WebUI | Link to GitHub Repository | . | Gradio: Query and analyze documents with DeepSeek-R1 . | Link to Guide | . | Docker: Run DeepSeek-R1 in a Docker container . | Link to Guide | . | . | Running Model Locally using LM Studio . | Running Model Locally using llama.cpp https://huggingface.co/unsloth/DeepSeek-R1-GGUF . | . ",
+    "url": "/deepseek/#running-deepseek-locally",
+    
+    "relUrl": "/deepseek/#running-deepseek-locally"
+  },"7": {
+    "doc": "DeekSeek R1",
+    "title": "DeekSeek R1",
+    "content": " ",
+    "url": "/deepseek/",
+    
+    "relUrl": "/deepseek/"
+  },"8": {
+    "doc": "Virtual Lab Benefits",
+    "title": "FAQ - Virtual Lab Benefits",
+    "content": "Here are some key benefits of virtual lab that each course or programme will gain when they adopt virtual lab. | 0. Virtual Lab numbers | 1. Course Enhancement with Lab Guide and Autograding | 2. Unified Teaching and Learning Platform | 3. Remote Access for Lecturers | 4. Pre-course app installation | 5. Virtual Lab Support | 6. Continuous Technology Updates | 7. Personalized Learning and Analytics (Upcoming) | 8. GUI Support in Container Labs | 9. File Management | 10. AI integration (Upcoming!) | 11. Automatic LTI integration with Canvas | . ",
+    "url": "/virtual_lab_benefits/#faq---virtual-lab-benefits",
+    
+    "relUrl": "/virtual_lab_benefits/#faq---virtual-lab-benefits"
+  },"9": {
+    "doc": "Virtual Lab Benefits",
+    "title": "0. Virtual Lab numbers",
+    "content": "Virtual Lab is supporting over 15 modules at SUSS. As of 2 April 2024, Programming Lab guide is supporting over 1000 students across three programming modules - ICT133, ICT162 and ICT233. Virtual Lab is run by EMR under Learning Services Cluster. ",
+    "url": "/virtual_lab_benefits/#0-virtual-lab-numbers",
+    
+    "relUrl": "/virtual_lab_benefits/#0-virtual-lab-numbers"
+  },"10": {
+    "doc": "Virtual Lab Benefits",
+    "title": "1. Course Enhancement with Lab Guide and Autograding",
+    "content": "Include Python and LabGuide in your course to allow students to independently learn and progressively enhance their skills through self-service. Installation for each course is handled by the virtual lab team. ",
+    "url": "/virtual_lab_benefits/#1-course-enhancement-with-lab-guide-and-autograding",
+    
+    "relUrl": "/virtual_lab_benefits/#1-course-enhancement-with-lab-guide-and-autograding"
+  },"11": {
+    "doc": "Virtual Lab Benefits",
+    "title": "2. Unified Teaching and Learning Platform",
+    "content": "Vocareum uses Ubuntu within a Docker environment, ensuring uniformity across teaching and learning platforms for both lecturers and students. For more details, visit the SUSS VLI FAQ page on Vocareum https://suss-vli.github.io/faq/vocareum/#downloading-from-jupyterlab-ide . ",
+    "url": "/virtual_lab_benefits/#2-unified-teaching-and-learning-platform",
+    
+    "relUrl": "/virtual_lab_benefits/#2-unified-teaching-and-learning-platform"
+  },"12": {
+    "doc": "Virtual Lab Benefits",
+    "title": "3. Remote Access for Lecturers",
+    "content": "Lecturers can remotely access students’ Vocareum workspaces for support, accessible through the dashboard. ",
+    "url": "/virtual_lab_benefits/#3-remote-access-for-lecturers",
+    
+    "relUrl": "/virtual_lab_benefits/#3-remote-access-for-lecturers"
+  },"13": {
+    "doc": "Virtual Lab Benefits",
+    "title": "4. Pre-course app installation",
+    "content": "The Virtual Lab team prepares by installing and setting up necessary applications and dependencies, supporting a wide range of tools including . | Jupyter Lab | Vscode | MySQL database | MongoDB database | R | AWS learning lab | Azure lab services | Python packages like seaborn, pandas, skilearn, matplot, beautifulsoup, numpy and more libraries. | Custom codeserver (vscode-like) extension via Open vsx registry | GUI applications | Autograding via Jupyter Notebooks | . ",
+    "url": "/virtual_lab_benefits/#4-pre-course-app-installation",
+    
+    "relUrl": "/virtual_lab_benefits/#4-pre-course-app-installation"
+  },"14": {
+    "doc": "Virtual Lab Benefits",
+    "title": "5. Virtual Lab Support",
+    "content": "For programming and platform support, contact the in-house devops team at vlisupport@suss.edu.sg. ",
+    "url": "/virtual_lab_benefits/#5-virtual-lab-support",
+    
+    "relUrl": "/virtual_lab_benefits/#5-virtual-lab-support"
+  },"15": {
+    "doc": "Virtual Lab Benefits",
+    "title": "6. Continuous Technology Updates",
+    "content": "Virtual Lab regularly updates to the latest technologies, maintaining a consistent standard across courses. ",
+    "url": "/virtual_lab_benefits/#6-continuous-technology-updates",
+    
+    "relUrl": "/virtual_lab_benefits/#6-continuous-technology-updates"
+  },"16": {
+    "doc": "Virtual Lab Benefits",
+    "title": "7. Personalized Learning and Analytics (Upcoming)",
+    "content": "Gain Insights into lab guides and student data will be available through Kibana/ELK stack, providing valuable feedback to lecturers. ",
+    "url": "/virtual_lab_benefits/#7-personalized-learning-and-analytics-upcoming",
+    
+    "relUrl": "/virtual_lab_benefits/#7-personalized-learning-and-analytics-upcoming"
+  },"17": {
+    "doc": "Virtual Lab Benefits",
+    "title": "8. GUI Support in Container Labs",
+    "content": "Enable GUI-based courses through the Ubunu/Linux interface. This is an option on top of the usual vscode interface that the lecturers can select. ",
+    "url": "/virtual_lab_benefits/#8-gui-support-in-container-labs",
+    
+    "relUrl": "/virtual_lab_benefits/#8-gui-support-in-container-labs"
+  },"18": {
+    "doc": "Virtual Lab Benefits",
+    "title": "9. File Management",
+    "content": "Files can be uploaded via Vocareum’s file tree or VSCode file upload feature. For more details, please see https://suss-vli.github.io/faq/vocareum/#how-do-i-upload-my-work-to-vocareum . ",
+    "url": "/virtual_lab_benefits/#9-file-management",
+    
+    "relUrl": "/virtual_lab_benefits/#9-file-management"
+  },"19": {
+    "doc": "Virtual Lab Benefits",
+    "title": "10. AI integration (Upcoming!)",
+    "content": " ",
+    "url": "/virtual_lab_benefits/#10-ai-integration-upcoming",
+    
+    "relUrl": "/virtual_lab_benefits/#10-ai-integration-upcoming"
+  },"20": {
+    "doc": "Virtual Lab Benefits",
+    "title": "11. Automatic LTI integration with Canvas",
+    "content": "Virtual Lab works in Canvas and the class list will automatically loaded via LTI. ",
+    "url": "/virtual_lab_benefits/#11-automatic-lti-integration-with-canvas",
+    
+    "relUrl": "/virtual_lab_benefits/#11-automatic-lti-integration-with-canvas"
+  },"21": {
+    "doc": "Virtual Lab Benefits",
+    "title": "Virtual Lab Benefits",
+    "content": " ",
+    "url": "/virtual_lab_benefits/",
+    
+    "relUrl": "/virtual_lab_benefits/"
+  },"22": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": "If you are a HOP or lecturer, you can do the following to bring Virtual Lab to your programme or course . | Contact Bryan at bryanlimyt@suss.edu.sg | Provide PDF or python or jupyter notebook to Virtual Lab Team . | We will convert them to jupyter notebook with autograding | We will scan through all the dependencies and install it for your lab | Your students will be able to enjoy autogradable questions with right and wrong answer. | . | . ",
+    "url": "/getting_started_for_lecturers/",
+    
+    "relUrl": "/getting_started_for_lecturers/"
+  },"23": {
+    "doc": "Getting Started",
+    "title": "Process",
+    "content": ". | Conversion of lab guide will take up to six months. This depends on the depth of knowledge that you have. | We will usually approach the course lead or HOP at least six months to one year. | . To see the full benefits of virtual lab, please visit here https://suss-vli.github.io/faq/ . ",
+    "url": "/getting_started_for_lecturers/#process",
+    
+    "relUrl": "/getting_started_for_lecturers/#process"
+  },"24": {
+    "doc": "Getting Started",
+    "title": "Requirement",
+    "content": "How do you know if your course qualify for virtual lab? . | There is a needs like python programming | You have a large student base and you have the following problems: . | It’s a coding course | You would like to level up their technical skill | You would like a common | . | . ",
+    "url": "/getting_started_for_lecturers/#requirement",
+    
+    "relUrl": "/getting_started_for_lecturers/#requirement"
+  },"25": {
+    "doc": "GitHub Campus Programme",
+    "title": "FAQ - GitHub Campus Programme",
+    "content": " ",
+    "url": "/github_campus/#faq---github-campus-programme",
+    
+    "relUrl": "/github_campus/#faq---github-campus-programme"
+  },"26": {
+    "doc": "GitHub Campus Programme",
+    "title": "Getting Started",
+    "content": "If you are a Head of Programme (HOP), Head of Department (HOD), or a project lead, you can follow these steps to bring the GitHub Campus Program to your course, department, or project at SUSS. | Contact Bryan at bryanlimyt@suss.edu.sg | If you have already set up your GitHub account, please adhere to our GitHub format to ensure consistency and clarity, which is essential for our automated processes. | . ",
+    "url": "/github_campus/#getting-started",
+    
+    "relUrl": "/github_campus/#getting-started"
+  },"27": {
+    "doc": "GitHub Campus Programme",
+    "title": "GitHub Organisation Structure",
+    "content": "To maintain standardization across the university, follow these naming conventions when creating GitHub organizations: . | Heads of Programme (HOP): Your GitHub organization should follow the format suss-&lt;module&gt;&lt;module_number&gt;. Example: suss-ict133 for module ICT133. | Heads of Department (HOD): Your GitHub organization should follow the format suss-&lt;department_name&gt;. Example: suss-cs for the Computer Science department. | Project Leads: Your GitHub organization should follow the format suss-&lt;project_name&gt;. Example: suss-vli for the Virtual Lab Initiative. | . ",
+    "url": "/github_campus/#github-organisation-structure",
+    
+    "relUrl": "/github_campus/#github-organisation-structure"
+  },"28": {
+    "doc": "GitHub Campus Programme",
+    "title": "Benefits",
+    "content": "For a full list of features and benefits offered by the GitHub Campus Program, please visit the official site here. If you have any questions or need further assistance, please wait for instructions or reach out to the Virtual Lab team. ",
+    "url": "/github_campus/#benefits",
+    
+    "relUrl": "/github_campus/#benefits"
+  },"29": {
+    "doc": "GitHub Campus Programme",
+    "title": "GitHub Campus Programme",
+    "content": " ",
+    "url": "/github_campus/",
+    
+    "relUrl": "/github_campus/"
+  },"30": {
+    "doc": "Home",
+    "title": "VLI - Frequently Asked Questions (FAQ)",
+    "content": "The FAQ of each platform under VLI are available here for you to solve any issues that you may face while accessing the VLI. If the FAQ solution does not help resolve your issue, please write an email to vlisupport@suss.edu.sg. ",
+    "url": "/#vli---frequently-asked-questions-faq",
+    
+    "relUrl": "/#vli---frequently-asked-questions-faq"
+  },"31": {
+    "doc": "Home",
+    "title": "About vlisupport@suss.edu.sg",
+    "content": "Dear Students, vlisupport is a tech support service for Virtual Lab, Vocareum, Lab Guide technical queries. ✅ Our focus is to assist with technical issues on the platform, Vocareum and Lab Guide. ❌ Unfortunately, we are unable to assist with: . | Changing deadlines or advise on academics matter for TMA, ECA, or assignments. Please consult your HOP or lecturers. | Offering solutions or help with TMA/ECA assignments. Please consult your lecturers. | . Additional Guidance . Students are advised to keep to the stable version of the OS. Newer versions often have app compatibility issues. You can maintain an older version by upgrading the security patches. This is especially true during projects or assignments to ensure smooth operation of the required applications. Thank you. ",
+    "url": "/#about-vlisupportsussedusg",
+    
+    "relUrl": "/#about-vlisupportsussedusg"
+  },"32": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"33": {
+    "doc": "Platform",
+    "title": "Platform",
+    "content": " ",
+    "url": "/platform/",
+    
+    "relUrl": "/platform/"
+  },"34": {
+    "doc": "How-To",
+    "title": "How To",
+    "content": " ",
+    "url": "/how_to/#how-to",
+    
+    "relUrl": "/how_to/#how-to"
+  },"35": {
+    "doc": "How-To",
+    "title": "How-To",
+    "content": " ",
+    "url": "/how_to/",
+    
+    "relUrl": "/how_to/"
+  },"36": {
+    "doc": "Coding",
+    "title": "Coding",
+    "content": " ",
+    "url": "/coding/",
+    
+    "relUrl": "/coding/"
+  },"37": {
+    "doc": "Labguide SDK",
+    "title": "FAQ - LabGuide",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email for assistance. | What is LabGuide | Courses covered by LabGuide | What’s inside LabGuide | Getting Access | Getting Started . | Initial Setup | Setup for Courses | . | . ",
+    "url": "/labguide/#faq---labguide",
+    
+    "relUrl": "/labguide/#faq---labguide"
+  },"38": {
+    "doc": "Labguide SDK",
+    "title": "What is LabGuide",
+    "content": "LabGuide is an open-source Jupyter notebook created by SUSS Learning Services, which includes autogradable coding lab. iLabGuide utilises learntools and suss python packages to power the autograding and autotesting features. This allows students to independently learn and progressively enhance their skills through self-service. ",
+    "url": "/labguide/#what-is-labguide",
+    
+    "relUrl": "/labguide/#what-is-labguide"
+  },"39": {
+    "doc": "Labguide SDK",
+    "title": "Courses covered by LabGuide",
+    "content": "LabGuide covers the following courses: . | ICT133 | ICT162 | ICT233 | ANL588 | . To get your course included in LabGuide, please email the Virtual Lab team at vlisupport@suss.edu.sg. ",
+    "url": "/labguide/#courses-covered-by-labguide",
+    
+    "relUrl": "/labguide/#courses-covered-by-labguide"
+  },"40": {
+    "doc": "Labguide SDK",
+    "title": "What’s inside LabGuide",
+    "content": "The Virtual Lab team prepares by installing and setting up necessary applications and dependencies, supporting a wide range of tools and extensions including: . | suss - a Python package that contains helper functions for autograding and autotesting | learntools - a Python package that contains helper functions for autograding and autotesting | friendly - switch on friendly to display friendlier output in Jupyter Notebook | hello.py - prints “hello, world!” as a tester plugin | . ",
+    "url": "/labguide/#whats-inside-labguide",
+    
+    "relUrl": "/labguide/#whats-inside-labguide"
+  },"41": {
+    "doc": "Labguide SDK",
+    "title": "Getting Access",
+    "content": "LabGuide is open-sourced and available on GitHub. Access the repository here. ",
+    "url": "/labguide/#getting-access",
+    
+    "relUrl": "/labguide/#getting-access"
+  },"42": {
+    "doc": "Labguide SDK",
+    "title": "Getting Started",
+    "content": "Install LabGuide package . pip install git+https://github.com/suss-vli/labguide.git . Initial Setup . Create a folder to store all the labs. Navigate to that folder and run the setup command. cd &lt;lab directory&gt; labguide setup . For example: . cd labs labguide setup . The setup will create a lab0/ folder in your current working directory, and includes lab0.ipynb for you to try out. Setup for Courses . | Navigate to the lab folder. | . cd &lt;lab directory&gt; . | To get the labs of the course and set up the LabGuide environment, you can use the command: | . labguide get &lt;course&gt; . For example: . labguide get ict133 . This command will git clone the course’s labs into the &lt;course&gt;/ folder. | Run the setup command: | . labguide setup &lt;course&gt; . For example: . labguide setup ict133 . This command will install all the dependencies required for the labs. | Your labs are now ready for you! | . ",
+    "url": "/labguide/#getting-started",
+    
+    "relUrl": "/labguide/#getting-started"
+  },"43": {
+    "doc": "Labguide SDK",
+    "title": "Labguide SDK",
+    "content": " ",
+    "url": "/labguide/",
+    
+    "relUrl": "/labguide/"
+  },"44": {
+    "doc": "Resources",
+    "title": "FAQ - Resources",
+    "content": "Free resources for sharing and learning. | Free Resources . | JetBrains Educational License | GitHub Student Developer Pack | Karel the Robot | . | AI Resources . | Gemini Flash | ChatGPT 4o | Claude 3.5 | . | VMware Resources . | VMware Workstation Pro (for Windows) | VMware Fusion Pro (for Mac) | . | Development Resources . | Visual Studio Code | v0 | Bolt.new | . | . ",
+    "url": "/resources/#faq---resources",
+    
+    "relUrl": "/resources/#faq---resources"
+  },"45": {
+    "doc": "Resources",
+    "title": "Free Resources",
+    "content": " ",
+    "url": "/resources/#free-resources",
+    
+    "relUrl": "/resources/#free-resources"
+  },"46": {
+    "doc": "Resources",
+    "title": "JetBrains Educational License",
+    "content": "Students and educators are eligible for free access to JetBrains products. This includes IntelliJ IDEA, PyCharm, and more. To apply for the educational license, visit the JetBrains Educational License page. ",
+    "url": "/resources/#jetbrains-educational-license",
+    
+    "relUrl": "/resources/#jetbrains-educational-license"
+  },"47": {
+    "doc": "Resources",
+    "title": "GitHub Student Developer Pack",
+    "content": "The GitHub Student Developer Pack is a collection of tools and services for students. This includes free access to GitHub Pro, AWS, and more. To apply for the GitHub Student Developer Pack, visit the GitHub Student Developer Pack page. ",
+    "url": "/resources/#github-student-developer-pack",
+    
+    "relUrl": "/resources/#github-student-developer-pack"
+  },"48": {
+    "doc": "Resources",
+    "title": "Karel the Robot",
+    "content": "Karel the Robot is an educational programming language for learning the basics of computer science. To learn more about Karel the Robot, visit the Karel the Robot page. ",
+    "url": "/resources/#karel-the-robot",
+    
+    "relUrl": "/resources/#karel-the-robot"
+  },"49": {
+    "doc": "Resources",
+    "title": "AI Resources",
+    "content": " ",
+    "url": "/resources/#ai-resources",
+    
+    "relUrl": "/resources/#ai-resources"
+  },"50": {
+    "doc": "Resources",
+    "title": "Gemini Flash",
+    "content": "Gemini 1.5 Flash is an addition to Google’s Gemini AI model family, designed for speed and efficiency in high-volume applications. To try out Gemini Flash, visit the Gemini Flash page. ",
+    "url": "/resources/#gemini-flash",
+    
+    "relUrl": "/resources/#gemini-flash"
+  },"51": {
+    "doc": "Resources",
+    "title": "ChatGPT 4o",
+    "content": "ChatGPT 4o is a version of OpenAI’s ChatGPT model, designed for conversational AI applications. To try out ChatGPT 4o, visit the ChatGPT 4o page. ",
+    "url": "/resources/#chatgpt-4o",
+    
+    "relUrl": "/resources/#chatgpt-4o"
+  },"52": {
+    "doc": "Resources",
+    "title": "Claude 3.5",
+    "content": "Claude 3.5 is a version of Microsoft’s Claude AI model, designed for natural language processing applications. To try out Claude 3.5, visit the Claude 3.5 page. ",
+    "url": "/resources/#claude-35",
+    
+    "relUrl": "/resources/#claude-35"
+  },"53": {
+    "doc": "Resources",
+    "title": "VMware Resources",
+    "content": " ",
+    "url": "/resources/#vmware-resources",
+    
+    "relUrl": "/resources/#vmware-resources"
+  },"54": {
+    "doc": "Resources",
+    "title": "VMware Workstation Pro (for Windows)",
+    "content": "VMware Workstation Pro is a virtualization tool for running multiple operating systems on a single machine. To download VMware Workstation, visit the VMware Desktop Hypervisor page. ",
+    "url": "/resources/#vmware-workstation-pro-for-windows",
+    
+    "relUrl": "/resources/#vmware-workstation-pro-for-windows"
+  },"55": {
+    "doc": "Resources",
+    "title": "VMware Fusion Pro (for Mac)",
+    "content": "VMware Fusion Pro is a virtualization tool for running multiple operating systems on a single machine. To download VMware Fusion, visit the VMware Desktop Hypervisor page. ",
+    "url": "/resources/#vmware-fusion-pro-for-mac",
+    
+    "relUrl": "/resources/#vmware-fusion-pro-for-mac"
+  },"56": {
+    "doc": "Resources",
+    "title": "Development Resources",
+    "content": " ",
+    "url": "/resources/#development-resources",
+    
+    "relUrl": "/resources/#development-resources"
+  },"57": {
+    "doc": "Resources",
+    "title": "Visual Studio Code",
+    "content": "Visual Studio Code is a lightweight code editor with support for multiple programming languages. To download Visual Studio Code, visit the Visual Studio Code page. ",
+    "url": "/resources/#visual-studio-code",
+    
+    "relUrl": "/resources/#visual-studio-code"
+  },"58": {
+    "doc": "Resources",
+    "title": "v0",
+    "content": "v0 is a generative user interface system powered by natural language and AI. To try out v0, visit the v0 page. ",
+    "url": "/resources/#v0",
+    
+    "relUrl": "/resources/#v0"
+  },"59": {
+    "doc": "Resources",
+    "title": "Bolt.new",
+    "content": "Bolt.new is a platform for building and deploying web applications. To try out Bolt.new, visit the Bolt.new page. ",
+    "url": "/resources/#boltnew",
+    
+    "relUrl": "/resources/#boltnew"
+  },"60": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "/resources/",
+    
+    "relUrl": "/resources/"
+  },"61": {
+    "doc": "Valence",
+    "title": "FAQ - Valence",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email bryanlimyt@suss.edu.sg for assistance. | What is Valence | What’s inside Valence | Access for Lecturers | Running Valence | . ",
+    "url": "/valence/#faq---valence",
+    
+    "relUrl": "/valence/#faq---valence"
+  },"62": {
+    "doc": "Valence",
+    "title": "What is Valence",
+    "content": "Valence is a virtual lab solution that allows students to access a remote desktop environment for their programming needs. ",
+    "url": "/valence/#what-is-valence",
+    
+    "relUrl": "/valence/#what-is-valence"
+  },"63": {
+    "doc": "Valence",
+    "title": "What’s inside Valence",
+    "content": "The Virtual Lab team prepares by installing and setting up necessary applications and dependencies, supporting a wide range of tools including . | Chrome | Chromium | Git | Nano | Python3.9 | Visual Studio Code (VSCode) | VSCode extensions like ms-toolsai.jupyter, ms-python.python, esbenp.prettier-vscode, dbaeumer.vscode-selint and xdotool | Zip | . ",
+    "url": "/valence/#whats-inside-valence",
+    
+    "relUrl": "/valence/#whats-inside-valence"
+  },"64": {
+    "doc": "Valence",
+    "title": "Access for Lecturers",
+    "content": "Lecturers can request for access to Valence by emailing bryanlimyt@suss.edu.sg. ",
+    "url": "/valence/#access-for-lecturers",
+    
+    "relUrl": "/valence/#access-for-lecturers"
+  },"65": {
+    "doc": "Valence",
+    "title": "Running Valence",
+    "content": ". | Pip install valence 2 using pip install --no-cache-dir git+https://github.com/suss-vli/valence2.git . | Clone valence-core using git clone https://github.com/suss-vli/valence-core-images.git | Build the valence-core images using docker build -t valence/core -f dockerfile-valence-core . | . | Clone valence-images using git clone https://github.com/suss-vli/valence-images1.git | Build the valence image using docker build --build-arg GITHUB_PAT=user:PAT -t ict133 -f dockerfile-ict133-valence-core . | Run a valence container by using valence local run --name suss_student --img ict133 --module SoftwareEngineering | . ",
+    "url": "/valence/#running-valence",
+    
+    "relUrl": "/valence/#running-valence"
+  },"66": {
+    "doc": "Valence",
+    "title": "Valence",
+    "content": " ",
+    "url": "/valence/",
+    
+    "relUrl": "/valence/"
+  },"67": {
+    "doc": "Docker",
+    "title": "FAQ - Docker",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email bryanlimyt@suss.edu.sg for assistance. | Pre-requisites | Docker Installation . | macOS (ARM-based) | Windows (AMD-based) | . | Verify Docker Installation | Using LinuxServer Images with Docker | How to decide which LinuxServer image to use | Is Docker Desktop required for macOS and Windows? | . ",
+    "url": "/docker/#faq---docker",
+    
+    "relUrl": "/docker/#faq---docker"
+  },"68": {
+    "doc": "Docker",
+    "title": "Pre-requisites",
+    "content": ". | Operating System: macOS (ARM-based), Windows (AMD-based) | . ",
+    "url": "/docker/#pre-requisites",
+    
+    "relUrl": "/docker/#pre-requisites"
+  },"69": {
+    "doc": "Docker",
+    "title": "Docker Installation",
+    "content": "macOS (ARM-based) . | Install Docker Desktop: Download the latest version of Docker Desktop from the official site here. | . Windows (AMD-based) . | WSL (Windows Subsystem for Linux): Ensure that WSL 2 is enabled on your Windows machine. Follow the instructions here. | Install Docker Desktop: Download the latest version of Docker Desktop from the official site here. | . ",
+    "url": "/docker/#docker-installation",
+    
+    "relUrl": "/docker/#docker-installation"
+  },"70": {
+    "doc": "Docker",
+    "title": "Verify Docker Installation",
+    "content": "After installing Docker Desktop, verify the installation by running the following command in your terminal: . docker --version . ",
+    "url": "/docker/#verify-docker-installation",
+    
+    "relUrl": "/docker/#verify-docker-installation"
+  },"71": {
+    "doc": "Docker",
+    "title": "Using LinuxServer Images with Docker",
+    "content": "The VLI team heavily relies on LinuxServer images based on Kasm, and here are some of the key ones used: . | linuxserver/code-server: Provides a web-based Visual Studio Code environment. | Repository: linuxserver/docker-code-server | . | linuxserver/docker-baseimage-alpine: Lightweight base image using Alpine Linux. | Repository: linuxserver/docker-baseimage-alpine | . | linuxserver/docker-kasm: A Kasm-based container image . | Repository: linuxserver/docker-kasm | . | linuxserver/baseimage-kasmvnc: A Kasm VNC-based container image . | Repository: linuxserver/docker-baseimage-kasmvnc | . | . ",
+    "url": "/docker/#using-linuxserver-images-with-docker",
+    
+    "relUrl": "/docker/#using-linuxserver-images-with-docker"
+  },"72": {
+    "doc": "Docker",
+    "title": "How to decide which LinuxServer image to use",
+    "content": "It depends on your project requirements. For example, if you need a web-based Visual Studio Code environment, you can use linuxserver/code-server. If you need a Kasm-based container image, you can use linuxserver/docker-kasm. ",
+    "url": "/docker/#how-to-decide-which-linuxserver-image-to-use",
+    
+    "relUrl": "/docker/#how-to-decide-which-linuxserver-image-to-use"
+  },"73": {
+    "doc": "Docker",
+    "title": "Is Docker Desktop required for macOS and Windows?",
+    "content": "Yes, Docker Desktop is required for macOS and Windows. It is a tool that allows you to run Docker containers on your local machine. ",
+    "url": "/docker/#is-docker-desktop-required-for-macos-and-windows",
+    
+    "relUrl": "/docker/#is-docker-desktop-required-for-macos-and-windows"
+  },"74": {
+    "doc": "Docker",
+    "title": "Docker",
+    "content": " ",
+    "url": "/docker/",
+    
+    "relUrl": "/docker/"
+  },"75": {
+    "doc": "Vocareum",
+    "title": "FAQ - Vocareum",
+    "content": "If your issue cannot be resolved by any of the FAQ, please email vlisupport@suss.edu.sg for assistance. | Browser requirements and configurations | Blank screen on Safari browser while accessing Vocareum Labs | Desktop Screensaver Password | Black Box appearing on Virtual Desktop | Virtual desktop connection lost | Disconnected from Vocareum Labs / Cannot access Vocareum Labs | Failed to launch Lab | Unable to login to MongoDB Compass due to incorrect keyring | Copy/Paste text from Local Desktop to Virtual Desktop | Copy/Paste text from Virtual Desktop to Local Desktop | Copy/Paste text from Local Desktop to Cloud IDE/JupyerLab | Copy/Paste text from Cloud IDE/JupyerLab to Local Desktop | How do I download files from Vocareum to my Local Desktop? . | Downloading from VSCode IDE | Downloading from JupyterLab IDE | Downloading from Virtual Desktop | . | How do I upload my work to Vocareum? . | Uploading to VSCode IDE | Uploading to JupyterLab IDE | Uploading to Virtual Desktop | . | . ",
+    "url": "/vocareum/#faq---vocareum",
+    
+    "relUrl": "/vocareum/#faq---vocareum"
+  },"76": {
+    "doc": "Vocareum",
+    "title": "Browser requirements and configurations",
+    "content": "Google Chrome . | Update the web browser to the latest version. | System Requirements (Please refer here for the latest information): a. Windows  i. Windows 7, Windows 8, Windows 8.1, Windows 10 or later  ii. An Intel Pentium 4 processor or later that’s SSE3 capable b. MAC OS  i. macOS High Sierra 10.13 later c. Linux OS  i. 64-bit Ubuntu 18.04+, Debian 10+, openSUSE 15.2+, or Fedora Linux 32+  ii. An Intel Pentium 4 processor or later that’s SSE3 capable | Configure browser to allow third-party cookies from Vocareum. The screenshots provided at the time of writing is based on version 115.0.5790.110. a. Open Chrome browser. b. On the URL bar, enter chrome://settings/cookies . c. Scroll down the page until you see this section – Sites that can always use cookies and click on the Add button. d. In the Add a site box, enter [*.]labs.vocareum.com into the Site prompt and check Including third-party cookies on this site. e. Click Add button to add and the prompt box will close. f. You will notice that your entry is now displayed at this section. g. Restart your Chrome browser and you should be able to access Vocareum Labs now. | . ",
+    "url": "/vocareum/#browser-requirements-and-configurations",
+    
+    "relUrl": "/vocareum/#browser-requirements-and-configurations"
+  },"77": {
+    "doc": "Vocareum",
+    "title": "Blank screen on Safari browser while accessing Vocareum Labs",
+    "content": "Students who are using Safari browser on their MAC may encounter this issue where a blank screen will appear after clicking on Vocareum Labs on Canvas (see image below). To solve the issue: . | Click on Safari, then select Preferences. | From the Preferences window, click on Privacy. | Under Website tracking setting, uncheck the Prevent cross-site tracking option. | Close the prompt box. | Refresh the Safari browser page. | . ",
+    "url": "/vocareum/#blank-screen-on-safari-browser-while-accessing-vocareum-labs",
+    
+    "relUrl": "/vocareum/#blank-screen-on-safari-browser-while-accessing-vocareum-labs"
+  },"78": {
+    "doc": "Vocareum",
+    "title": "Desktop Screensaver Password",
+    "content": "For users who come across the virtual desktop screensaver and need the password to unlock it, the password is labsuser. ",
+    "url": "/vocareum/#desktop-screensaver-password",
+    
+    "relUrl": "/vocareum/#desktop-screensaver-password"
+  },"79": {
+    "doc": "Vocareum",
+    "title": "Black Box appearing on Virtual Desktop",
+    "content": "If you have selected One empty panel on the Panel Prompt as shown below, you will get a black box on the desktop. To resolve this issue: . | Right-click on an empty space on the desktop and click Open Terminal Here from the menu. | Once the terminal appears, enter the following command: rm -rf ~/.config/xfce4/ . | Navigate back to Work Workspace and click End Lab | Click Start Lab to start the lab again. | Once the lab starts, remember to choose Use default config | . ",
+    "url": "/vocareum/#black-box-appearing-on-virtual-desktop",
+    
+    "relUrl": "/vocareum/#black-box-appearing-on-virtual-desktop"
+  },"80": {
+    "doc": "Vocareum",
+    "title": "Virtual desktop connection lost",
+    "content": "Possible scenarios: . | Your virtual desktop connection suddenly gets lost, and you are unable to re-connect back to your virtual desktop. A sample of the error is shown below. | The noVNC loading is stuck at the connecting loop indefinitely. | . To resolve these issues: . a. Close the noVNC browser tab. b. Navigate back to the Work Workspace and end the current session by clicking End Lab. c. Click on Start Lab to obtain a new session. ",
+    "url": "/vocareum/#virtual-desktop-connection-lost",
+    
+    "relUrl": "/vocareum/#virtual-desktop-connection-lost"
+  },"81": {
+    "doc": "Vocareum",
+    "title": "Disconnected from Vocareum Labs / Cannot access Vocareum Labs",
+    "content": "For Vocareum labs, there is a time limit of 5 hours for each session. The session will be automatically disconnected once the 5 hours is up. You can check on the time left for your session from your work space, beside the “Start Lab” button (see image below). You can re-access your lab by closing the lab and starting a new lab session using the “End Lab” and “Start Lab” buttons. If the above method does not work, you can click on “Vocareum Lab” in Canvas to reload the Vocareum lab to start a new lab session. ",
+    "url": "/vocareum/#disconnected-from-vocareum-labs--cannot-access-vocareum-labs",
+    
+    "relUrl": "/vocareum/#disconnected-from-vocareum-labs--cannot-access-vocareum-labs"
+  },"82": {
+    "doc": "Vocareum",
+    "title": "Failed to launch Lab",
+    "content": "If one of the following error message appears after clicking My Work, please close the message and click Start Lab again. The lab session will be able to start as soon as it has completed loading. ",
+    "url": "/vocareum/#failed-to-launch-lab",
+    
+    "relUrl": "/vocareum/#failed-to-launch-lab"
+  },"83": {
+    "doc": "Vocareum",
+    "title": "Unable to login to MongoDB Compass due to incorrect keyring",
+    "content": "To reset your password: . | Open a terminal in the virtual desktop. | Run the command: rm -rfv ~/.local/share/keyrings/Default_keyring.keyring . | Close the MongoDB compass application. | Re-launch the MongoDB compass application. Accept the default and click Connect | The prompt to set the password for a new keyring will appear. | Enter a new password for the keyring. | . ",
+    "url": "/vocareum/#unable-to-login-to-mongodb-compass-due-to-incorrect-keyring",
+    
+    "relUrl": "/vocareum/#unable-to-login-to-mongodb-compass-due-to-incorrect-keyring"
+  },"84": {
+    "doc": "Vocareum",
+    "title": "Copy/Paste text from Local Desktop to Virtual Desktop",
+    "content": ". | Use Ctrl + C keyboard shortcut to copy the text from your local desktop. | Navigate to your virtual desktop and click on the arrow to open the noVNC control panel. | Click on the Clipboard button on the noVNC control panel to open the Clipboard. | Use Ctrl + V keyboard shortcut to paste the text into the Clipboard. | In your virtual desktop, right-click on your mouse and click Paste to paste the contents on the application. | Click the arrow on the noVNC control panel to hide it. | . ",
+    "url": "/vocareum/#copypaste-text-from-local-desktop-to-virtual-desktop",
+    
+    "relUrl": "/vocareum/#copypaste-text-from-local-desktop-to-virtual-desktop"
+  },"85": {
+    "doc": "Vocareum",
+    "title": "Copy/Paste text from Virtual Desktop to Local Desktop",
+    "content": ". | Highlight the text you want to copy to the local desktop. | Click on the arrow on the left to open the noVNC control panel. | Click on the Clipboard button on the noVNC control panel to display the Clipboard. | Use the Ctrl + C keyboard shortcut to copy the text in the Clipboard. | Use the Ctrl + V keyboard shortcut to paste the text in your local desktop. | . ",
+    "url": "/vocareum/#copypaste-text-from-virtual-desktop-to-local-desktop",
+    
+    "relUrl": "/vocareum/#copypaste-text-from-virtual-desktop-to-local-desktop"
+  },"86": {
+    "doc": "Vocareum",
+    "title": "Copy/Paste text from Local Desktop to Cloud IDE/JupyerLab",
+    "content": ". | Use the Ctrl+C keyboard shortcut to copy the text from your Local Desktop. | Use the Ctrl+V keyboard shortcut to paste the text to the Cloud IDE/JupyterLab. | . ",
+    "url": "/vocareum/#copypaste-text-from-local-desktop-to-cloud-idejupyerlab",
+    
+    "relUrl": "/vocareum/#copypaste-text-from-local-desktop-to-cloud-idejupyerlab"
+  },"87": {
+    "doc": "Vocareum",
+    "title": "Copy/Paste text from Cloud IDE/JupyerLab to Local Desktop",
+    "content": ". | Use the Ctrl+C keyboard shortcut to copy the text from the Cloud IDE/JupyterLab. | Use the Ctrl+V keyboard shortcut to paste the text to your Local Desktop. | . ",
+    "url": "/vocareum/#copypaste-text-from-cloud-idejupyerlab-to-local-desktop",
+    
+    "relUrl": "/vocareum/#copypaste-text-from-cloud-idejupyerlab-to-local-desktop"
+  },"88": {
+    "doc": "Vocareum",
+    "title": "How do I download files from Vocareum to my Local Desktop?",
+    "content": "Downloading from VSCode IDE . | Select the file(s) that you wish to download. | To select multiple files, hold down on the Control button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. | Right click on the selected file(s) and click on Download. | If there is a prompt appearing on your screen to ask for your permission, click Allow. | Verify that the file(s) have been downloaded to your computer. | . Downloading from JupyterLab IDE . | Select the file(s) that you wish to download. | To select multiple files, hold down on the Control button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. | Right click on the selected file(s) you wish to download. | Select “Download”. | . Downloading from Virtual Desktop . | Navigate to Work WorkSpace and click the Reload icon once to reload the file tree. This step will reload the contents of the work folder. | Click on the file/folder that you wish to download. | . {: .important } If you have multiple files/folders to download, you must do it one by one. The recommended way would be to zip up the files/folders into 1 zip file and you download the single zip file. | Click on the Download icon button. | The system will automatically compress the selected file/folder into a zip file. Click Download zipped source to download the file. | . ",
+    "url": "/vocareum/#how-do-i-download-files-from-vocareum-to-my-local-desktop",
+    
+    "relUrl": "/vocareum/#how-do-i-download-files-from-vocareum-to-my-local-desktop"
+  },"89": {
+    "doc": "Vocareum",
+    "title": "How do I upload my work to Vocareum?",
+    "content": "Uploading to VSCode IDE . Method 1 . Simply drag and drop your directory into the explorer of IDE on Vocareum. See below. Method 2 . | Navigate to the directory where you wish to upload your file(s). | Right-click on an empty area on the file explorer, click Upload and select the file(s) that you wish to upload. | To upload multiple files, hold down on the Control button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click Open to upload. | Once upload is completed, you can find the file(s) listed under the directory in your IDE. | . Uploading to JupyterLab IDE . | Navigate into the directory you wish to upload to. | Click on the Upload icon button and select the file to upload. | To upload multiple files, hold down on the Control button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click Open to upload. | . Uploading to Virtual Desktop . | Navigate to Work Workspace and click on work. | Click on Upload button. | To upload multiple files, hold down on the Control button (for Windows) on the keyboard and select the files one by one. The selected files will be highlighted in blue. Click Open to upload. | System will start to process the upload and will prompt successful when completed. | Verify that your files have successfully uploaded from the file tree or in your Virtual Desktop. | . ",
+    "url": "/vocareum/#how-do-i-upload-my-work-to-vocareum",
+    
+    "relUrl": "/vocareum/#how-do-i-upload-my-work-to-vocareum"
+  },"90": {
+    "doc": "Vocareum",
+    "title": "Vocareum",
+    "content": " ",
+    "url": "/vocareum/",
+    
+    "relUrl": "/vocareum/"
+  }
+}
